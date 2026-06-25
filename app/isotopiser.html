@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isotopiser</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Georgia,serif;background:#fafaf8;color:#1a1a1a;min-height:100vh}
+.page{max-width:760px;margin:0 auto;padding:3rem 2rem 4rem}
+h1{font-size:1.6rem;font-weight:normal;letter-spacing:0.04em;margin-bottom:0.25rem}
+.subtitle{font-size:0.85rem;color:#999;font-style:italic;margin-bottom:2rem}
+.server-status{font-size:0.78rem;margin-bottom:1.5rem;padding:7px 12px;
+  border-radius:3px;border:1px solid #e0e0d8;background:#f5f5f0;color:#888;
+  display:flex;align-items:center;gap:8px}
+.dot{width:7px;height:7px;border-radius:50%;background:#ccc;flex-shrink:0}
+.dot.ok{background:#5a9e5a}
+.dot.err{background:#c0392b}
+.dot.spin{background:#aaa;animation:pulse 1s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+.res-tags{margin-left:auto;display:flex;gap:5px}
+.res-tag{font-size:0.7rem;padding:1px 6px;border-radius:2px;
+  background:#eee;color:#aaa;border:1px solid #ddd}
+.res-tag.on{background:#eaf3e0;color:#3a7a1a;border-color:#b8d8a0}
+.mw-row{display:flex;align-items:center;gap:8px;margin-bottom:1.5rem;flex-wrap:wrap}
+.mw-row label{font-size:0.75rem;text-transform:uppercase;letter-spacing:0.08em;
+  color:#bbb;white-space:nowrap}
+.mw-row input[type=text]{flex:1;min-width:200px;max-width:340px;font-family:Georgia,serif;
+  font-size:0.85rem;padding:5px 10px;border:1px solid #ddd;border-radius:3px;
+  background:#fff;color:#1a1a1a;outline:none}
+.mw-row input:focus{border-color:#aaa}
+.mw-hint{font-size:0.72rem;color:#aaa;font-style:italic;margin-bottom:1.25rem}
+.mw-hint a{color:inherit}
+label.field{font-size:0.75rem;text-transform:uppercase;letter-spacing:0.08em;
+  color:#bbb;display:block;margin-bottom:0.5rem}
+textarea{width:100%;height:155px;resize:vertical;font-family:Georgia,serif;font-size:0.95rem;
+  padding:12px 14px;border:1px solid #ddd;border-radius:3px;background:#fff;
+  color:#1a1a1a;line-height:1.65;outline:none}
+textarea:focus{border-color:#aaa}
+.controls{display:flex;align-items:center;gap:1rem;margin-top:0.75rem;flex-wrap:wrap}
+.wc{font-size:0.8rem;color:#ccc;flex:1}
+.wc .n{color:#777}
+.wc .over{color:#c0392b}
+button.primary{padding:8px 22px;font-size:0.85rem;font-family:Georgia,serif;
+  border:1px solid #1a1a1a;border-radius:2px;background:#1a1a1a;color:#fafaf8;
+  cursor:pointer;letter-spacing:0.04em;transition:background 0.15s}
+button.primary:hover{background:#333}
+button.primary:disabled{opacity:0.4;cursor:not-allowed}
+button.sec{padding:8px 16px;font-size:0.85rem;font-family:Georgia,serif;
+  border:1px solid #ccc;border-radius:2px;background:transparent;color:#888;
+  cursor:pointer;transition:all 0.15s}
+button.sec:hover{border-color:#888;color:#1a1a1a}
+.err{font-size:0.85rem;color:#c0392b;margin-top:0.75rem;display:none;font-style:italic}
+.progress{margin-top:1.5rem;display:none}
+.pbar-outer{height:2px;background:#e8e8e4;border-radius:1px;margin-bottom:6px}
+.pbar-inner{height:100%;width:0%;background:#1a1a1a;transition:width 0.3s;border-radius:1px}
+.pstatus{font-size:0.78rem;color:#bbb;font-style:italic}
+.results{margin-top:2.5rem}
+.stats{display:flex;gap:2.5rem;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid #e8e8e4}
+.stat-item .stat-n{font-size:1.9rem;font-weight:normal;line-height:1}
+.stat-item .stat-l{font-size:0.7rem;text-transform:uppercase;letter-spacing:0.09em;color:#bbb;margin-top:3px}
+.section-head{font-size:0.7rem;text-transform:uppercase;letter-spacing:0.1em;color:#bbb;margin-bottom:1.25rem}
+.iso-card{padding:1.25rem 0;border-bottom:1px solid #edece8}
+.iso-card:last-child{border-bottom:none}
+.iso-top{display:flex;align-items:baseline;gap:0.75rem;margin-bottom:0.55rem;flex-wrap:wrap}
+.iso-name{font-size:1.05rem;color:#1a1a1a}
+.iso-score{font-size:0.78rem;color:#ccc}
+.tier-badge{font-size:0.68rem;padding:2px 7px;border-radius:2px;letter-spacing:0.05em}
+.tier-s{background:#eaf3e0;color:#3a6b1a;border:1px solid #c5dfa8}
+.tier-m{background:#e8eef8;color:#2a4a8a;border:1px solid #adc0e8}
+.tier-w{background:#f5f0e8;color:#7a5a20;border:1px solid #d8c898}
+.lemma-row{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:0.55rem}
+.lemma-chip{font-size:0.78rem;padding:2px 8px;border:1px solid #ddd;border-radius:2px;
+  color:#666;background:#fafaf8;font-style:italic}
+.classeme-line{font-size:0.8rem;color:#bbb;line-height:1.6}
+.classeme-line em{color:#999;font-style:normal}
+.no-results{font-size:0.9rem;color:#999;padding:0.5rem 0;font-style:italic}
+.missing-note{font-size:0.73rem;color:#ccc;margin-top:1.5rem;
+  border-top:1px solid #e8e8e4;padding-top:1rem;line-height:1.7;font-style:italic}
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>Isotopiser</h1>
+  <p class="subtitle">Greimasian isotopy detection &middot; max 250 words</p>
+
+  <div class="server-status" id="srv-status">
+    <div class="dot spin" id="srv-dot"></div>
+    <span id="srv-msg">Connecting to server&hellip;</span>
+    <div class="res-tags" id="res-tags"></div>
+  </div>
+
+  <div class="mw-row">
+    <label>MW API key</label>
+    <input type="password" id="mw-key" placeholder="paste key &mdash; stored locally, never sent to any server except dictionaryapi.com" />
+    <button class="sec" id="mw-clear" onclick="clearKey()" style="display:none">forget</button>
+  </div>
+  <div class="mw-hint" id="mw-hint">No key &mdash; results will be noisy. Free key at <a href="https://dictionaryapi.com/" target="_blank">dictionaryapi.com</a> (Collegiate Dictionary, 1000 req/day).</div>
+
+  <label class="field" for="txt">Text</label>
+  <textarea id="txt" placeholder="Paste English text here&hellip;" spellcheck="false"></textarea>
+  <div class="controls">
+    <div class="wc"><span class="n" id="wcn">0</span> / 250 words</div>
+    <button class="primary" id="btn" onclick="run()" disabled>Analyse</button>
+    <button class="sec" onclick="clearAll()">Clear</button>
+  </div>
+  <div class="err" id="err"></div>
+
+  <div class="progress" id="prog">
+    <div class="pbar-outer"><div class="pbar-inner" id="pbar"></div></div>
+    <div class="pstatus" id="pstatus">Sending to server&hellip;</div>
+  </div>
+
+  <div class="results" id="results"></div>
+</div>
+
+<script>
+const SERVER = 'http://localhost:5000';
+const MAX_W  = 250;
+
+// MW key persistence
+function loadKey() {
+  const k = localStorage.getItem('mw_api_key') || '';
+  document.getElementById('mw-key').value = k;
+  updateKeyUI(k);
+}
+function saveKey(k) {
+  if (k) localStorage.setItem('mw_api_key', k);
+  else localStorage.removeItem('mw_api_key');
+  updateKeyUI(k);
+}
+function clearKey() {
+  document.getElementById('mw-key').value = '';
+  saveKey('');
+}
+function updateKeyUI(k) {
+  const hint = document.getElementById('mw-hint');
+  const clearBtn = document.getElementById('mw-clear');
+  if (k) {
+    hint.innerHTML = 'MW key active &mdash; full pipeline enabled.';
+    hint.style.color = 'var(--color-text-success, #3a7a1a)';
+    clearBtn.style.display = 'inline';
+  } else {
+    hint.innerHTML = 'No key &mdash; results will be noisy. Free key at <a href="https://dictionaryapi.com/" target="_blank">dictionaryapi.com</a> (Collegiate Dictionary, 1000 req/day).';
+    hint.style.color = '';
+    clearBtn.style.display = 'none';
+  }
+}
+document.addEventListener('DOMContentLoaded', loadKey);
+document.getElementById('mw-key').addEventListener('change', function() {
+  saveKey(this.value.trim());
+});
+document.getElementById('mw-key').addEventListener('blur', function() {
+  saveKey(this.value.trim());
+});
+
+async function checkServer() {
+  try {
+    const r = await fetch(SERVER + '/analyse', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({text:'test ping hello world darkness night soul ghost'})
+    });
+    const data = await r.json();
+    document.getElementById('srv-dot').className = 'dot ok';
+    document.getElementById('srv-msg').textContent = 'Server ready';
+    document.getElementById('btn').disabled = false;
+    if (data.resources) {
+      const res = data.resources;
+      document.getElementById('res-tags').innerHTML =
+        `<span class="res-tag ${res.wordnet?'on':''}">WordNet</span>`
+        +`<span class="res-tag ${res.wiktionary?'on':''}">Wiktionary</span>`
+        +`<span class="res-tag ${res.mw?'on':''}">MW</span>`;
+    }
+  } catch(e) {
+    document.getElementById('srv-dot').className = 'dot err';
+    document.getElementById('srv-msg').textContent =
+      'Server not found \u2014 run: python isotopiser_server.py';
+  }
+}
+checkServer();
+
+function wordCount(t){return (t.trim().match(/\S+/g)||[]).length;}
+
+document.getElementById('txt').addEventListener('input', function(){
+  const wc = wordCount(this.value);
+  const el = document.getElementById('wcn');
+  el.textContent = wc;
+  el.className = wc > MAX_W ? 'over' : 'n';
+});
+
+async function run() {
+  const txt = document.getElementById('txt').value.trim();
+  if (!txt) return;
+  if (wordCount(txt) > MAX_W) { showErr('Text exceeds 250 words.'); return; }
+  hideErr();
+  document.getElementById('btn').disabled = true;
+  document.getElementById('results').innerHTML = '';
+  document.getElementById('prog').style.display = 'block';
+  setPbar(10, 'Sending to server\u2026');
+  const mw_key = document.getElementById('mw-key').value.trim() || localStorage.getItem('mw_api_key') || '';
+  try {
+    setPbar(25, 'Fetching definitions\u2026');
+    const r = await fetch(SERVER+'/analyse', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({text:txt, mw_key:mw_key})
+    });
+    setPbar(85, 'Clustering\u2026');
+    const data = await r.json();
+    setPbar(100, 'Done');
+    if (data.error) showErr(data.error);
+    else renderResults(data);
+  } catch(e) {
+    showErr('Could not reach server. Is isotopiser_server.py running?');
+  } finally {
+    document.getElementById('prog').style.display = 'none';
+    document.getElementById('btn').disabled = false;
+  }
+}
+
+function setPbar(p,m){
+  document.getElementById('pbar').style.width=p+'%';
+  document.getElementById('pstatus').textContent=m;
+}
+
+function renderResults(data) {
+  const el = document.getElementById('results');
+  const clusters = data.clusters||[];
+  const covered  = new Set(clusters.flatMap(c=>c.members));
+  let html = '<div class="stats">'
+    +st(data.total_lemmas,'lemmas')
+    +st(data.in_dictionary,'in dictionary')
+    +st(covered.size,'clustered')
+    +st(clusters.length,'isotopies')
+    +'</div>';
+  if (!clusters.length) {
+    html += '<p class="no-results">No isotopy clusters found. Try a longer or more semantically varied passage.</p>';
+  } else {
+    html += '<div class="section-head">Isotopy clusters &middot; ranked by strength</div>';
+    for (const cl of clusters) {
+      const tc = cl.tier==='strong'?'tier-s':cl.tier==='medium'?'tier-m':'tier-w';
+      const top = cl.classemes.slice(0,6);
+      // Name: join member lemmas with en-dash — the isotopy IS the co-clustering
+      const clname = cl.members.slice(0,4).join(' &ndash; ')
+                     + (cl.members.length > 4 ? ' &ndash; &hellip;' : '');
+      html += '<div class="iso-card">'
+        +'<div class="iso-top">'
+        +`<span class="iso-name">${clname}</span>`
+        +`<span class="tier-badge ${tc}">${cl.tier}</span>`
+        +`<span class="iso-score">score ${cl.score} &middot; ${cl.members.length} lemma${cl.members.length>1?'s':''}</span>`
+        +'</div>'
+        +`<div class="classeme-line"><em>classemes:</em> ${top.join(', ')}</div>`
+        +'</div>';
+    }
+  }
+  if (data.missing&&data.missing.length) {
+    html += `<div class="missing-note">Not in dictionary (${data.missing.length}): `
+      +data.missing.slice(0,30).join(', ')+(data.missing.length>30?'\u2026':'')+'</div>';
+  }
+  el.innerHTML = html;
+}
+
+function st(n,l){return`<div class="stat-item"><div class="stat-n">${n}</div><div class="stat-l">${l}</div></div>`;}
+function showErr(m){const e=document.getElementById('err');e.textContent=m;e.style.display='block';}
+function hideErr(){document.getElementById('err').style.display='none';}
+function clearAll(){
+  document.getElementById('txt').value='';
+  document.getElementById('wcn').textContent='0';
+  document.getElementById('results').innerHTML='';
+  document.getElementById('prog').style.display='none';
+  hideErr();
+}
+</script>
+</body>
+</html>

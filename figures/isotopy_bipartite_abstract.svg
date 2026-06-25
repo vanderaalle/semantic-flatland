@@ -1,0 +1,81 @@
+<svg width="680" viewBox="0 0 680 380" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<rect width="680" height="380" fill="white"/>
+
+<text font-size="11" fill="#888" x="120" y="28" text-anchor="middle">lexemes</text>
+<text font-size="11" fill="#888" x="520" y="28" text-anchor="middle">semes</text>
+<line x1="120" y1="34" x2="120" y2="340" stroke="#ddd" stroke-width="0.5"/>
+<line x1="520" y1="34" x2="520" y2="340" stroke="#ddd" stroke-width="0.5"/>
+
+<!-- lexeme y: l1=90  l2=185  l3=275 -->
+<!-- seme y:   s5=50  s1=95  s2=140  s4=185  s6=230  s3=275  s7=320 -->
+
+<!-- s5: private l1 -->
+<line x1="138" y1="88" x2="504" y2="50" stroke="#ccc" stroke-width="0.6" opacity="0.5"/>
+
+<!-- s1: shared l1+l2, strong — both lines converge neatly, no crossing -->
+<line x1="138" y1="92" x2="504" y2="95" stroke="#1a1a1a" stroke-width="3" opacity="0.85"/>
+<line x1="138" y1="183" x2="504" y2="97" stroke="#1a1a1a" stroke-width="2.5" opacity="0.7"/>
+
+<!-- s2: shared l1+l3, strong -->
+<line x1="138" y1="94" x2="504" y2="138" stroke="#1a1a1a" stroke-width="2.5" opacity="0.7"/>
+<line x1="138" y1="273" x2="504" y2="142" stroke="#1a1a1a" stroke-width="2" opacity="0.65"/>
+
+<!-- s4: shared all three, medium-low -->
+<line x1="138" y1="96" x2="504" y2="183" stroke="#999" stroke-width="1" opacity="0.4"/>
+<line x1="138" y1="185" x2="504" y2="185" stroke="#999" stroke-width="1" opacity="0.4"/>
+<line x1="138" y1="275" x2="504" y2="187" stroke="#999" stroke-width="1" opacity="0.4"/>
+
+<!-- s6: private l2 -->
+<line x1="138" y1="187" x2="504" y2="230" stroke="#ccc" stroke-width="0.6" opacity="0.5"/>
+
+<!-- s3: shared l2+l3, medium -->
+<line x1="138" y1="189" x2="504" y2="273" stroke="#555" stroke-width="1.5" opacity="0.5"/>
+<line x1="138" y1="277" x2="504" y2="277" stroke="#555" stroke-width="1.5" opacity="0.5"/>
+
+<!-- s7: private l3 -->
+<line x1="138" y1="279" x2="504" y2="320" stroke="#ccc" stroke-width="0.6" opacity="0.5"/>
+
+<!-- seme nodes -->
+<circle cx="520" cy="50"  r="8"  fill="#c8c8c8" stroke="#bbb" stroke-width="0.5"/>
+<text font-size="10" fill="#555" x="520" y="54" text-anchor="middle">s₅</text>
+
+<circle cx="520" cy="95"  r="14" fill="#2a2a2a" stroke="#1a1a1a" stroke-width="0.5"/>
+<text font-size="11" fill="white" x="520" y="99" text-anchor="middle">s₁</text>
+
+<circle cx="520" cy="140" r="13" fill="#333" stroke="#1a1a1a" stroke-width="0.5"/>
+<text font-size="11" fill="white" x="520" y="144" text-anchor="middle">s₂</text>
+
+<circle cx="520" cy="185" r="10" fill="#999" stroke="#888" stroke-width="0.5"/>
+<text font-size="11" fill="#333" x="520" y="189" text-anchor="middle">s₄</text>
+
+<circle cx="520" cy="230" r="8"  fill="#d0d0d0" stroke="#bbb" stroke-width="0.5"/>
+<text font-size="10" fill="#666" x="520" y="234" text-anchor="middle">s₆</text>
+
+<circle cx="520" cy="275" r="12" fill="#666" stroke="#555" stroke-width="0.5"/>
+<text font-size="11" fill="white" x="520" y="279" text-anchor="middle">s₃</text>
+
+<circle cx="520" cy="320" r="8"  fill="#e0e0e0" stroke="#ccc" stroke-width="0.5"/>
+<text font-size="10" fill="#777" x="520" y="324" text-anchor="middle">s₇</text>
+
+<!-- lexeme nodes -->
+<circle cx="120" cy="90"  r="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.5"/>
+<text font-size="13" fill="white" x="120" y="94" text-anchor="middle">l₁</text>
+
+<circle cx="120" cy="185" r="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.5"/>
+<text font-size="13" fill="white" x="120" y="189" text-anchor="middle">l₂</text>
+
+<circle cx="120" cy="275" r="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.5"/>
+<text font-size="13" fill="white" x="120" y="279" text-anchor="middle">l₃</text>
+
+<!-- legend -->
+<text font-size="11" fill="#888" x="40" y="362">edge weight = IDF score</text>
+<line x1="182" y1="358" x2="214" y2="358" stroke="#1a1a1a" stroke-width="3"/>
+<text font-size="11" fill="#888" x="218" y="362">high</text>
+<line x1="246" y1="358" x2="278" y2="358" stroke="#ccc" stroke-width="0.8"/>
+<text font-size="11" fill="#888" x="282" y="362">low</text>
+<text font-size="11" fill="#888" x="318" y="362">node shade = IDF weight</text>
+<circle cx="462" cy="358" r="6" fill="#2a2a2a"/>
+<text font-size="11" fill="#888" x="472" y="362">high</text>
+<circle cx="504" cy="358" r="6" fill="#d0d0d0" stroke="#ccc" stroke-width="0.5"/>
+<text font-size="11" fill="#888" x="514" y="362">low</text>
+</svg>

@@ -1,0 +1,2943 @@
+{
+  "lemma_map": {
+    "alone": [
+      "alone"
+    ],
+    "aught": [
+      "aught"
+    ],
+    "autumn": [
+      "autumn"
+    ],
+    "bitter": [
+      "bitter"
+    ],
+    "bleak": [
+      "bleak"
+    ],
+    "building": [
+      "building"
+    ],
+    "cloud": [
+      "clouds"
+    ],
+    "compare": [
+      "compare"
+    ],
+    "contemplation": [
+      "contemplation"
+    ],
+    "country": [
+      "country"
+    ],
+    "dark": [
+      "dark"
+    ],
+    "day": [
+      "day"
+    ],
+    "decay": [
+      "decayed"
+    ],
+    "depression": [
+      "depression"
+    ],
+    "desolate": [
+      "desolate"
+    ],
+    "domain": [
+      "domain"
+    ],
+    "draw": [
+      "drew"
+    ],
+    "dream": [
+      "dream"
+    ],
+    "dreariness": [
+      "dreariness"
+    ],
+    "dreary": [
+      "dreary"
+    ],
+    "dropping": [
+      "dropping"
+    ],
+    "dull": [
+      "dull"
+    ],
+    "earthly": [
+      "earthly"
+    ],
+    "evening": [
+      "evening"
+    ],
+    "eye": [
+      "eye"
+    ],
+    "feature": [
+      "features"
+    ],
+    "feeling": [
+      "feeling"
+    ],
+    "first": [
+      "first"
+    ],
+    "found": [
+      "found"
+    ],
+    "glimpse": [
+      "glimpse"
+    ],
+    "gloom": [
+      "gloom"
+    ],
+    "goad": [
+      "goading"
+    ],
+    "hang": [
+      "hung"
+    ],
+    "heart": [
+      "heart"
+    ],
+    "heaven": [
+      "heavens"
+    ],
+    "hideous": [
+      "hideous"
+    ],
+    "horseback": [
+      "horseback"
+    ],
+    "house": [
+      "house"
+    ],
+    "iciness": [
+      "iciness"
+    ],
+    "image": [
+      "images"
+    ],
+    "imagination": [
+      "imagination"
+    ],
+    "insufferable": [
+      "insufferable"
+    ],
+    "know": [
+      "know"
+    ],
+    "landscape": [
+      "landscape"
+    ],
+    "lapse": [
+      "lapse"
+    ],
+    "length": [
+      "length"
+    ],
+    "life": [
+      "life"
+    ],
+    "like": [
+      "like"
+    ],
+    "look": [
+      "looked"
+    ],
+    "low": [
+      "low"
+    ],
+    "melancholy": [
+      "melancholy"
+    ],
+    "mere": [
+      "mere"
+    ],
+    "mind": [
+      "mind"
+    ],
+    "natural": [
+      "natural"
+    ],
+    "opium": [
+      "opium"
+    ],
+    "oppressively": [
+      "oppressively"
+    ],
+    "pass": [
+      "passing"
+    ],
+    "pause": [
+      "paused"
+    ],
+    "pervade": [
+      "pervaded"
+    ],
+    "pleasurable": [
+      "pleasurable"
+    ],
+    "poetic": [
+      "poetic"
+    ],
+    "properly": [
+      "properly"
+    ],
+    "rank": [
+      "rank"
+    ],
+    "receive": [
+      "receives"
+    ],
+    "reveller": [
+      "reveller"
+    ],
+    "say": [
+      "say"
+    ],
+    "scene": [
+      "scene"
+    ],
+    "sedge": [
+      "sedges"
+    ],
+    "sensation": [
+      "sensation"
+    ],
+    "sense": [
+      "sense"
+    ],
+    "sentiment": [
+      "sentiment"
+    ],
+    "shade": [
+      "shades"
+    ],
+    "sicken": [
+      "sickening"
+    ],
+    "simple": [
+      "simple"
+    ],
+    "singularly": [
+      "singularly"
+    ],
+    "sink": [
+      "sinking"
+    ],
+    "soul": [
+      "soul"
+    ],
+    "soundless": [
+      "soundless"
+    ],
+    "spirit": [
+      "spirit"
+    ],
+    "stern": [
+      "sternest"
+    ],
+    "sublime": [
+      "sublime"
+    ],
+    "terrible": [
+      "terrible"
+    ],
+    "think": [
+      "thought",
+      "think"
+    ],
+    "torture": [
+      "torture"
+    ],
+    "tract": [
+      "tract"
+    ],
+    "tree": [
+      "trees"
+    ],
+    "trunk": [
+      "trunks"
+    ],
+    "unnerved": [
+      "unnerved"
+    ],
+    "unredeemed": [
+      "unredeemed"
+    ],
+    "unrelieved": [
+      "unrelieved"
+    ],
+    "usher": [
+      "usher"
+    ],
+    "utter": [
+      "utter"
+    ],
+    "vacant": [
+      "vacant"
+    ],
+    "veil": [
+      "veil"
+    ],
+    "view": [
+      "view"
+    ],
+    "wall": [
+      "walls"
+    ],
+    "white": [
+      "white"
+    ],
+    "window": [
+      "windows"
+    ],
+    "year": [
+      "year"
+    ]
+  },
+  "definitions": {
+    "alone": {
+      "raw_definitions": [
+        "separated from others isolated",
+        "exclusive of anyone or anything else only",
+        "considered without reference to any other"
+      ],
+      "definition_words": [
+        "separated",
+        "from",
+        "others",
+        "isolated",
+        "exclusive",
+        "anyone",
+        "anything",
+        "else",
+        "only",
+        "considered",
+        "without",
+        "reference",
+        "any",
+        "other"
+      ]
+    },
+    "aught": {
+      "raw_definitions": [
+        "all, everything"
+      ],
+      "definition_words": [
+        "all",
+        "everything"
+      ]
+    },
+    "autumn": {
+      "raw_definitions": [
+        "the season between summer and winter comprising in the northern hemisphere usually the months of September, October, and November or as reckoned astronomically extending from the September equinox to the December solstice",
+        "a period of maturity or incipient decline",
+        "an autumn-blooming colchicum ( Colchicum autumnale )"
+      ],
+      "definition_words": [
+        "the",
+        "season",
+        "between",
+        "summer",
+        "and",
+        "winter",
+        "comprising",
+        "the",
+        "northern",
+        "hemisphere",
+        "usually",
+        "the",
+        "months",
+        "september",
+        "october",
+        "and",
+        "november",
+        "reckoned",
+        "astronomically",
+        "extending",
+        "from",
+        "the",
+        "september",
+        "equinox",
+        "the",
+        "december",
+        "solstice",
+        "period",
+        "maturity",
+        "incipient",
+        "decline",
+        "autumn",
+        "blooming",
+        "colchicum",
+        "colchicum",
+        "autumnale"
+      ]
+    },
+    "bitter": {
+      "raw_definitions": [
+        "being, inducing, or marked by the one of the five basic taste sensations that is peculiarly acrid, astringent, and often disagreeable and characteristic of citrus peels, unsweetened cocoa, black coffee, mature leafy greens (such as kale or mustard), or ale",
+        "distasteful or distressing to the mind galling",
+        "accompanied by severe pain or suffering"
+      ],
+      "definition_words": [
+        "being",
+        "inducing",
+        "marked",
+        "the",
+        "one",
+        "the",
+        "five",
+        "basic",
+        "taste",
+        "sensations",
+        "that",
+        "peculiarly",
+        "acrid",
+        "astringent",
+        "and",
+        "often",
+        "disagreeable",
+        "and",
+        "characteristic",
+        "citrus",
+        "peels",
+        "unsweetened",
+        "cocoa",
+        "black",
+        "coffee",
+        "mature",
+        "leafy",
+        "greens",
+        "such",
+        "kale",
+        "mustard",
+        "ale",
+        "distasteful",
+        "distressing",
+        "the",
+        "mind",
+        "galling",
+        "accompanied",
+        "severe",
+        "pain",
+        "suffering"
+      ]
+    },
+    "bleak": {
+      "raw_definitions": [
+        "exposed and barren and often windswept",
+        "lacking in warmth, life, or kindliness grim",
+        "not hopeful or encouraging depressing"
+      ],
+      "definition_words": [
+        "exposed",
+        "and",
+        "barren",
+        "and",
+        "often",
+        "windswept",
+        "lacking",
+        "warmth",
+        "life",
+        "kindliness",
+        "grim",
+        "not",
+        "hopeful",
+        "encouraging",
+        "depressing"
+      ]
+    },
+    "building": {
+      "raw_definitions": [
+        "a usually roofed and walled structure built for permanent use (as for a dwelling)",
+        "the art or business of assembling materials into a structure",
+        "to form by ordering and uniting materials by gradual means into a composite whole construct"
+      ],
+      "definition_words": [
+        "usually",
+        "roofed",
+        "and",
+        "walled",
+        "structure",
+        "built",
+        "for",
+        "permanent",
+        "use",
+        "for",
+        "dwelling",
+        "the",
+        "art",
+        "business",
+        "assembling",
+        "materials",
+        "into",
+        "structure",
+        "form",
+        "ordering",
+        "and",
+        "uniting",
+        "materials",
+        "gradual",
+        "means",
+        "into",
+        "composite",
+        "whole",
+        "construct"
+      ]
+    },
+    "cloud": {
+      "raw_definitions": [
+        "a visible mass of particles of condensed vapor (such as water or ice) suspended in the atmosphere of a planet (such as the earth) or moon",
+        "a light filmy, puffy, or billowy mass seeming to float in the air",
+        "a great crowd or multitude swarm"
+      ],
+      "definition_words": [
+        "visible",
+        "mass",
+        "particles",
+        "condensed",
+        "vapor",
+        "such",
+        "water",
+        "ice",
+        "suspended",
+        "the",
+        "atmosphere",
+        "planet",
+        "such",
+        "the",
+        "earth",
+        "moon",
+        "light",
+        "filmy",
+        "puffy",
+        "billowy",
+        "mass",
+        "seeming",
+        "float",
+        "the",
+        "air",
+        "great",
+        "crowd",
+        "multitude",
+        "swarm"
+      ]
+    },
+    "compare": {
+      "raw_definitions": [
+        "to represent as similar liken",
+        "to examine the character or qualities of especially in order to discover resemblances or differences",
+        "to view in relation to"
+      ],
+      "definition_words": [
+        "represent",
+        "similar",
+        "liken",
+        "examine",
+        "the",
+        "character",
+        "qualities",
+        "especially",
+        "order",
+        "discover",
+        "resemblances",
+        "differences",
+        "view",
+        "relation"
+      ]
+    },
+    "contemplation": {
+      "raw_definitions": [
+        "concentration on spiritual things as a form of private devotion",
+        "a state of mystical awareness of God's being",
+        "an act of considering with attention study"
+      ],
+      "definition_words": [
+        "concentration",
+        "spiritual",
+        "things",
+        "form",
+        "private",
+        "devotion",
+        "state",
+        "mystical",
+        "awareness",
+        "god",
+        "being",
+        "act",
+        "considering",
+        "with",
+        "attention",
+        "study"
+      ]
+    },
+    "country": {
+      "raw_definitions": [
+        "an indefinite usually extended expanse of land region",
+        "the land of a person's birth, residence, or citizenship",
+        "a political state or nation or its territory"
+      ],
+      "definition_words": [
+        "indefinite",
+        "usually",
+        "extended",
+        "expanse",
+        "land",
+        "region",
+        "the",
+        "land",
+        "person",
+        "birth",
+        "residence",
+        "citizenship",
+        "political",
+        "state",
+        "nation",
+        "its",
+        "territory"
+      ]
+    },
+    "dark": {
+      "raw_definitions": [
+        "devoid or partially devoid of light not receiving, reflecting, transmitting, or radiating light",
+        "transmitting only a portion of light",
+        "wholly or partially black"
+      ],
+      "definition_words": [
+        "devoid",
+        "partially",
+        "devoid",
+        "light",
+        "not",
+        "receiving",
+        "reflecting",
+        "transmitting",
+        "radiating",
+        "light",
+        "transmitting",
+        "only",
+        "portion",
+        "light",
+        "wholly",
+        "partially",
+        "black"
+      ]
+    },
+    "day": {
+      "raw_definitions": [
+        "the time of light between one night and the next",
+        "the period of rotation of a planet (such as earth) or a moon on its axis",
+        "the mean solar day of 24 hours beginning at midnight by mean time"
+      ],
+      "definition_words": [
+        "the",
+        "time",
+        "light",
+        "between",
+        "one",
+        "night",
+        "and",
+        "the",
+        "next",
+        "the",
+        "period",
+        "rotation",
+        "planet",
+        "such",
+        "earth",
+        "moon",
+        "its",
+        "axis",
+        "the",
+        "mean",
+        "solar",
+        "day",
+        "hours",
+        "beginning",
+        "midnight",
+        "mean",
+        "time"
+      ]
+    },
+    "decay": {
+      "raw_definitions": [
+        "to undergo decomposition",
+        "to decline in health, strength, or vigor",
+        "to fall into ruin"
+      ],
+      "definition_words": [
+        "undergo",
+        "decomposition",
+        "decline",
+        "health",
+        "strength",
+        "vigor",
+        "fall",
+        "into",
+        "ruin"
+      ]
+    },
+    "depression": {
+      "raw_definitions": [
+        "a state of feeling sad low spirits melancholy",
+        "a pressing down lowering",
+        "a long-lasting period of greatly reduced general economic activity marked especially by widespread unemployment and declines in trade and production and often by deflation"
+      ],
+      "definition_words": [
+        "state",
+        "feeling",
+        "sad",
+        "low",
+        "spirits",
+        "melancholy",
+        "pressing",
+        "down",
+        "lowering",
+        "long",
+        "lasting",
+        "period",
+        "greatly",
+        "reduced",
+        "general",
+        "economic",
+        "activity",
+        "marked",
+        "especially",
+        "widespread",
+        "unemployment",
+        "and",
+        "declines",
+        "trade",
+        "and",
+        "production",
+        "and",
+        "often",
+        "deflation"
+      ]
+    },
+    "desolate": {
+      "raw_definitions": [
+        "devoid of inhabitants and visitors deserted",
+        "joyless, disconsolate, and sorrowful through or as if through separation from a loved one",
+        "showing the effects of abandonment and neglect dilapidated"
+      ],
+      "definition_words": [
+        "devoid",
+        "inhabitants",
+        "and",
+        "visitors",
+        "deserted",
+        "joyless",
+        "disconsolate",
+        "and",
+        "sorrowful",
+        "through",
+        "through",
+        "separation",
+        "from",
+        "loved",
+        "one",
+        "showing",
+        "the",
+        "effects",
+        "abandonment",
+        "and",
+        "neglect",
+        "dilapidated"
+      ]
+    },
+    "domain": {
+      "raw_definitions": [
+        "complete and absolute see absolute ownership of land",
+        "land so owned",
+        "a territory over which dominion see dominion is exercised"
+      ],
+      "definition_words": [
+        "complete",
+        "and",
+        "absolute",
+        "see",
+        "absolute",
+        "ownership",
+        "land",
+        "land",
+        "owned",
+        "territory",
+        "over",
+        "which",
+        "dominion",
+        "see",
+        "dominion",
+        "exercised"
+      ]
+    },
+    "draw": {
+      "raw_definitions": [
+        "to move (something, such as a covering) over or to one side",
+        "to pull up or out of a receptacle or place where seated or carried",
+        "to cause to go in a certain direction (as by leading)"
+      ],
+      "definition_words": [
+        "move",
+        "something",
+        "such",
+        "covering",
+        "over",
+        "one",
+        "side",
+        "pull",
+        "out",
+        "receptacle",
+        "place",
+        "where",
+        "seated",
+        "carried",
+        "cause",
+        "certain",
+        "direction",
+        "leading"
+      ]
+    },
+    "dream": {
+      "raw_definitions": [
+        "a series of thoughts, images, or emotions occurring during sleep",
+        "a visionary see visionary:1 creation of the imagination daydream",
+        "a state of mind marked by abstraction or release from reality reverie"
+      ],
+      "definition_words": [
+        "series",
+        "thoughts",
+        "images",
+        "emotions",
+        "occurring",
+        "during",
+        "sleep",
+        "visionary",
+        "see",
+        "visionary",
+        "creation",
+        "the",
+        "imagination",
+        "daydream",
+        "state",
+        "mind",
+        "marked",
+        "abstraction",
+        "release",
+        "from",
+        "reality",
+        "reverie"
+      ]
+    },
+    "dreariness": {
+      "raw_definitions": [
+        "feeling, displaying, or reflecting listlessness or discouragement",
+        "having nothing likely to provide cheer, comfort, or interest gloomy, dismal"
+      ],
+      "definition_words": [
+        "feeling",
+        "displaying",
+        "reflecting",
+        "listlessness",
+        "discouragement",
+        "having",
+        "nothing",
+        "likely",
+        "provide",
+        "cheer",
+        "comfort",
+        "interest",
+        "gloomy",
+        "dismal"
+      ]
+    },
+    "dreary": {
+      "raw_definitions": [
+        "feeling, displaying, or reflecting listlessness or discouragement",
+        "having nothing likely to provide cheer, comfort, or interest gloomy, dismal"
+      ],
+      "definition_words": [
+        "feeling",
+        "displaying",
+        "reflecting",
+        "listlessness",
+        "discouragement",
+        "having",
+        "nothing",
+        "likely",
+        "provide",
+        "cheer",
+        "comfort",
+        "interest",
+        "gloomy",
+        "dismal"
+      ]
+    },
+    "dropping": {
+      "raw_definitions": [
+        "something dropped",
+        "to fall in drops",
+        "to fall in a state of collapse see collapse:2 or death"
+      ],
+      "definition_words": [
+        "something",
+        "dropped",
+        "fall",
+        "drops",
+        "fall",
+        "state",
+        "collapse",
+        "see",
+        "collapse",
+        "death"
+      ]
+    },
+    "dull": {
+      "raw_definitions": [
+        "tedious, uninteresting",
+        "lacking sharpness of edge or point",
+        "not resonant or ringing"
+      ],
+      "definition_words": [
+        "tedious",
+        "uninteresting",
+        "lacking",
+        "sharpness",
+        "edge",
+        "point",
+        "not",
+        "resonant",
+        "ringing"
+      ]
+    },
+    "earthly": {
+      "raw_definitions": [
+        "characteristic of or belonging to this earth",
+        "relating to the human race's actual life on this earth"
+      ],
+      "definition_words": [
+        "characteristic",
+        "belonging",
+        "this",
+        "earth",
+        "relating",
+        "the",
+        "human",
+        "race",
+        "actual",
+        "life",
+        "this",
+        "earth"
+      ]
+    },
+    "evening": {
+      "raw_definitions": [
+        "the latter part and close of the day and early part of the night",
+        "the period from sunset or the evening meal to bedtime",
+        "the latter portion"
+      ],
+      "definition_words": [
+        "the",
+        "latter",
+        "part",
+        "and",
+        "close",
+        "the",
+        "day",
+        "and",
+        "early",
+        "part",
+        "the",
+        "night",
+        "the",
+        "period",
+        "from",
+        "sunset",
+        "the",
+        "evening",
+        "meal",
+        "bedtime",
+        "the",
+        "latter",
+        "portion"
+      ]
+    },
+    "eye": {
+      "raw_definitions": [
+        "a specialized light-sensitive sensory structure of animals that in nearly all vertebrates, most arthropods, and some mollusks is the image-forming organ of sight",
+        "all the visible structures within and surrounding the orbit and including eyelids, eyelashes, and eyebrows",
+        "look, glance"
+      ],
+      "definition_words": [
+        "specialized",
+        "light",
+        "sensitive",
+        "sensory",
+        "structure",
+        "animals",
+        "that",
+        "nearly",
+        "all",
+        "vertebrates",
+        "most",
+        "arthropods",
+        "and",
+        "some",
+        "mollusks",
+        "the",
+        "image",
+        "forming",
+        "organ",
+        "sight",
+        "all",
+        "the",
+        "visible",
+        "structures",
+        "within",
+        "and",
+        "surrounding",
+        "the",
+        "orbit",
+        "and",
+        "including",
+        "eyelids",
+        "eyelashes",
+        "and",
+        "eyebrows",
+        "look",
+        "glance"
+      ]
+    },
+    "feature": {
+      "raw_definitions": [
+        "the structure, form, or appearance especially of a person",
+        "physical beauty",
+        "the makeup or appearance of the face or its parts"
+      ],
+      "definition_words": [
+        "the",
+        "structure",
+        "form",
+        "appearance",
+        "especially",
+        "person",
+        "physical",
+        "beauty",
+        "the",
+        "makeup",
+        "appearance",
+        "the",
+        "face",
+        "its",
+        "parts"
+      ]
+    },
+    "feeling": {
+      "raw_definitions": [
+        "generalized bodily consciousness or sensation",
+        "appreciative or responsive awareness or recognition",
+        "an emotional state or reaction"
+      ],
+      "definition_words": [
+        "generalized",
+        "bodily",
+        "consciousness",
+        "sensation",
+        "appreciative",
+        "responsive",
+        "awareness",
+        "recognition",
+        "emotional",
+        "state",
+        "reaction"
+      ]
+    },
+    "first": {
+      "raw_definitions": [
+        "being the lowest forward gear or speed of a motor vehicle",
+        "having the highest or most prominent part among a group of similar voices or instruments",
+        "before another in time, space, or importance"
+      ],
+      "definition_words": [
+        "being",
+        "the",
+        "lowest",
+        "forward",
+        "gear",
+        "speed",
+        "motor",
+        "vehicle",
+        "having",
+        "the",
+        "highest",
+        "most",
+        "prominent",
+        "part",
+        "among",
+        "group",
+        "similar",
+        "voices",
+        "instruments",
+        "before",
+        "another",
+        "time",
+        "space",
+        "importance"
+      ]
+    },
+    "found": {
+      "raw_definitions": [
+        "having all usual, standard, or reasonably expected equipment",
+        "presented as or incorporated into an artistic work essentially as found"
+      ],
+      "definition_words": [
+        "having",
+        "all",
+        "usual",
+        "standard",
+        "reasonably",
+        "expected",
+        "equipment",
+        "presented",
+        "incorporated",
+        "into",
+        "artistic",
+        "work",
+        "essentially",
+        "found"
+      ]
+    },
+    "glimpse": {
+      "raw_definitions": [
+        "to get a brief look at",
+        "to look briefly",
+        "a fleeting view or look"
+      ],
+      "definition_words": [
+        "get",
+        "brief",
+        "look",
+        "look",
+        "briefly",
+        "fleeting",
+        "view",
+        "look"
+      ]
+    },
+    "gloom": {
+      "raw_definitions": [
+        "to look, feel, or act sullen or despondent",
+        "to be or become overcast",
+        "to loom up dimly"
+      ],
+      "definition_words": [
+        "look",
+        "feel",
+        "act",
+        "sullen",
+        "despondent",
+        "become",
+        "overcast",
+        "loom",
+        "dimly"
+      ]
+    },
+    "goad": {
+      "raw_definitions": [
+        "to incite or rouse as if with a goad see goad:2",
+        "to drive (an animal) with a goad see goad:2",
+        "a pointed rod used to urge on an animal"
+      ],
+      "definition_words": [
+        "incite",
+        "rouse",
+        "with",
+        "goad",
+        "see",
+        "goad",
+        "drive",
+        "animal",
+        "with",
+        "goad",
+        "see",
+        "goad",
+        "pointed",
+        "rod",
+        "used",
+        "urge",
+        "animal"
+      ]
+    },
+    "hang": {
+      "raw_definitions": [
+        "to fasten to some elevated point without support from below suspend",
+        "to suspend by the neck until dead",
+        "to fasten so as to allow free motion within given limits upon a point of suspension"
+      ],
+      "definition_words": [
+        "fasten",
+        "some",
+        "elevated",
+        "point",
+        "without",
+        "support",
+        "from",
+        "below",
+        "suspend",
+        "suspend",
+        "the",
+        "neck",
+        "until",
+        "dead",
+        "fasten",
+        "allow",
+        "free",
+        "motion",
+        "within",
+        "given",
+        "limits",
+        "upon",
+        "point",
+        "suspension"
+      ]
+    },
+    "heart": {
+      "raw_definitions": [
+        "a hollow muscular organ of vertebrate animals that by its rhythmic contraction acts as a force pump maintaining the circulation of the blood",
+        "a structure in an invertebrate animal functionally analogous to the vertebrate heart",
+        "breast, bosom"
+      ],
+      "definition_words": [
+        "hollow",
+        "muscular",
+        "organ",
+        "vertebrate",
+        "animals",
+        "that",
+        "its",
+        "rhythmic",
+        "contraction",
+        "acts",
+        "force",
+        "pump",
+        "maintaining",
+        "the",
+        "circulation",
+        "the",
+        "blood",
+        "structure",
+        "invertebrate",
+        "animal",
+        "functionally",
+        "analogous",
+        "the",
+        "vertebrate",
+        "heart",
+        "breast",
+        "bosom"
+      ]
+    },
+    "heaven": {
+      "raw_definitions": [
+        "the expanse of space that seems to be over the earth like a dome firmament",
+        "the dwelling place of God and the blessed dead in some religions",
+        "a spiritual state of everlasting communion with God"
+      ],
+      "definition_words": [
+        "the",
+        "expanse",
+        "space",
+        "that",
+        "seems",
+        "over",
+        "the",
+        "earth",
+        "like",
+        "dome",
+        "firmament",
+        "the",
+        "dwelling",
+        "place",
+        "god",
+        "and",
+        "the",
+        "blessed",
+        "dead",
+        "some",
+        "religions",
+        "spiritual",
+        "state",
+        "everlasting",
+        "communion",
+        "with",
+        "god"
+      ]
+    },
+    "hideous": {
+      "raw_definitions": [
+        "offensive to the senses and especially to sight exceedingly ugly",
+        "morally offensive shocking"
+      ],
+      "definition_words": [
+        "offensive",
+        "the",
+        "senses",
+        "and",
+        "especially",
+        "sight",
+        "exceedingly",
+        "ugly",
+        "morally",
+        "offensive",
+        "shocking"
+      ]
+    },
+    "horseback": {
+      "raw_definitions": [
+        "the back of a horse",
+        "on horseback"
+      ],
+      "definition_words": [
+        "the",
+        "back",
+        "horse",
+        "horseback"
+      ]
+    },
+    "house": {
+      "raw_definitions": [
+        "a building that serves as living quarters for one or a few families home",
+        "a building in which something is sheltered or stored",
+        "one of the 12 equal sectors see sector:1 in which the celestial sphere is divided"
+      ],
+      "definition_words": [
+        "building",
+        "that",
+        "serves",
+        "living",
+        "quarters",
+        "for",
+        "one",
+        "few",
+        "families",
+        "home",
+        "building",
+        "which",
+        "something",
+        "sheltered",
+        "stored",
+        "one",
+        "the",
+        "equal",
+        "sectors",
+        "see",
+        "sector",
+        "which",
+        "the",
+        "celestial",
+        "sphere",
+        "divided"
+      ]
+    },
+    "iciness": {
+      "raw_definitions": [
+        "covered with, abounding in, or consisting of ice",
+        "intensely cold",
+        "characterized by coldness frigid"
+      ],
+      "definition_words": [
+        "covered",
+        "with",
+        "abounding",
+        "consisting",
+        "ice",
+        "intensely",
+        "cold",
+        "characterized",
+        "coldness",
+        "frigid"
+      ]
+    },
+    "image": {
+      "raw_definitions": [
+        "the optical counterpart of an object produced by an optical device (such as a lens or mirror) or an electronic device",
+        "idea, concept",
+        "a popular conception (as of a person, institution, or nation) projected especially through the mass media"
+      ],
+      "definition_words": [
+        "the",
+        "optical",
+        "counterpart",
+        "object",
+        "produced",
+        "optical",
+        "device",
+        "such",
+        "lens",
+        "mirror",
+        "electronic",
+        "device",
+        "idea",
+        "concept",
+        "popular",
+        "conception",
+        "person",
+        "institution",
+        "nation",
+        "projected",
+        "especially",
+        "through",
+        "the",
+        "mass",
+        "media"
+      ]
+    },
+    "imagination": {
+      "raw_definitions": [
+        "the act or power of forming a mental image of something not present to the senses or never before wholly perceived in reality",
+        "creative ability",
+        "ability to confront and deal with a problem resourcefulness"
+      ],
+      "definition_words": [
+        "the",
+        "act",
+        "power",
+        "forming",
+        "mental",
+        "image",
+        "something",
+        "not",
+        "present",
+        "the",
+        "senses",
+        "never",
+        "before",
+        "wholly",
+        "perceived",
+        "reality",
+        "creative",
+        "ability",
+        "ability",
+        "confront",
+        "and",
+        "deal",
+        "with",
+        "problem",
+        "resourcefulness"
+      ]
+    },
+    "insufferable": {
+      "raw_definitions": [
+        "not to be endured intolerable"
+      ],
+      "definition_words": [
+        "not",
+        "endured",
+        "intolerable"
+      ]
+    },
+    "know": {
+      "raw_definitions": [
+        "to be aware of the truth or factuality of be convinced or certain of",
+        "to have a practical understanding of",
+        "to have sexual intercourse with"
+      ],
+      "definition_words": [
+        "aware",
+        "the",
+        "truth",
+        "factuality",
+        "convinced",
+        "certain",
+        "have",
+        "practical",
+        "understanding",
+        "have",
+        "sexual",
+        "intercourse",
+        "with"
+      ]
+    },
+    "landscape": {
+      "raw_definitions": [
+        "a picture representing a view of natural inland scenery",
+        "the art of depicting such scenery",
+        "the landforms of a region in the aggregate"
+      ],
+      "definition_words": [
+        "picture",
+        "representing",
+        "view",
+        "natural",
+        "inland",
+        "scenery",
+        "the",
+        "art",
+        "depicting",
+        "such",
+        "scenery",
+        "the",
+        "landforms",
+        "region",
+        "the",
+        "aggregate"
+      ]
+    },
+    "lapse": {
+      "raw_definitions": [
+        "a slight error typically due to forgetfulness or inattention",
+        "a temporary deviation or fall especially from a higher to a lower state",
+        "a becoming less decline"
+      ],
+      "definition_words": [
+        "slight",
+        "error",
+        "typically",
+        "due",
+        "forgetfulness",
+        "inattention",
+        "temporary",
+        "deviation",
+        "fall",
+        "especially",
+        "from",
+        "higher",
+        "lower",
+        "state",
+        "becoming",
+        "less",
+        "decline"
+      ]
+    },
+    "length": {
+      "raw_definitions": [
+        "the longer or longest dimension of an object",
+        "a measured distance or dimension",
+        "the quality or state of being long"
+      ],
+      "definition_words": [
+        "the",
+        "longer",
+        "longest",
+        "dimension",
+        "object",
+        "measured",
+        "distance",
+        "dimension",
+        "the",
+        "quality",
+        "state",
+        "being",
+        "long"
+      ]
+    },
+    "life": {
+      "raw_definitions": [
+        "the quality that distinguishes a vital and functional being from a dead body",
+        "a principle or force that is considered to underlie the distinctive quality of animate beings",
+        "an organismic state characterized by capacity for metabolism see metabolism , growth, reaction to stimuli, and reproduction"
+      ],
+      "definition_words": [
+        "the",
+        "quality",
+        "that",
+        "distinguishes",
+        "vital",
+        "and",
+        "functional",
+        "being",
+        "from",
+        "dead",
+        "body",
+        "principle",
+        "force",
+        "that",
+        "considered",
+        "underlie",
+        "the",
+        "distinctive",
+        "quality",
+        "animate",
+        "beings",
+        "organismic",
+        "state",
+        "characterized",
+        "capacity",
+        "for",
+        "metabolism",
+        "see",
+        "metabolism",
+        "growth",
+        "reaction",
+        "stimuli",
+        "and",
+        "reproduction"
+      ]
+    },
+    "like": {
+      "raw_definitions": [
+        "to feel attraction toward or take pleasure in enjoy",
+        "to feel toward regard",
+        "to wish to have want"
+      ],
+      "definition_words": [
+        "feel",
+        "attraction",
+        "toward",
+        "take",
+        "pleasure",
+        "enjoy",
+        "feel",
+        "toward",
+        "regard",
+        "wish",
+        "have",
+        "want"
+      ]
+    },
+    "look": {
+      "raw_definitions": [
+        "to make sure or take care (that something is done)",
+        "to ascertain by the use of one's eyes",
+        "to exercise the power of vision upon examine"
+      ],
+      "definition_words": [
+        "make",
+        "sure",
+        "take",
+        "care",
+        "that",
+        "something",
+        "done",
+        "ascertain",
+        "the",
+        "use",
+        "one",
+        "eyes",
+        "exercise",
+        "the",
+        "power",
+        "vision",
+        "upon",
+        "examine"
+      ]
+    },
+    "low": {
+      "raw_definitions": [
+        "having a small upward extension or elevation",
+        "situated or passing little above a reference line, point, or plane",
+        "situated or passing below the normal level, surface, or base of measurement, or the mean elevation"
+      ],
+      "definition_words": [
+        "having",
+        "small",
+        "upward",
+        "extension",
+        "elevation",
+        "situated",
+        "passing",
+        "little",
+        "above",
+        "reference",
+        "line",
+        "point",
+        "plane",
+        "situated",
+        "passing",
+        "below",
+        "the",
+        "normal",
+        "level",
+        "surface",
+        "base",
+        "measurement",
+        "the",
+        "mean",
+        "elevation"
+      ]
+    },
+    "melancholy": {
+      "raw_definitions": [
+        "a state of sadness depression of spirits dejection",
+        "a pensive mood",
+        "melancholia"
+      ],
+      "definition_words": [
+        "state",
+        "sadness",
+        "depression",
+        "spirits",
+        "dejection",
+        "pensive",
+        "mood",
+        "melancholia"
+      ]
+    },
+    "mere": {
+      "raw_definitions": [
+        "being nothing more than",
+        "having no admixture see admixture pure",
+        "being nothing less than absolute"
+      ],
+      "definition_words": [
+        "being",
+        "nothing",
+        "more",
+        "than",
+        "having",
+        "admixture",
+        "see",
+        "admixture",
+        "pure",
+        "being",
+        "nothing",
+        "less",
+        "than",
+        "absolute"
+      ]
+    },
+    "mind": {
+      "raw_definitions": [
+        "recollection, memory",
+        "the element or complex see complex:1 of elements in an individual that feels, perceives, thinks, wills, and especially reasons",
+        "the conscious mental events and capabilities in an organism"
+      ],
+      "definition_words": [
+        "recollection",
+        "memory",
+        "the",
+        "element",
+        "complex",
+        "see",
+        "complex",
+        "elements",
+        "individual",
+        "that",
+        "feels",
+        "perceives",
+        "thinks",
+        "wills",
+        "and",
+        "especially",
+        "reasons",
+        "the",
+        "conscious",
+        "mental",
+        "events",
+        "and",
+        "capabilities",
+        "organism"
+      ]
+    },
+    "natural": {
+      "raw_definitions": [
+        "based on an inherent sense of right and wrong",
+        "being in accordance with or determined by nature",
+        "having or constituting a classification based on features existing in nature"
+      ],
+      "definition_words": [
+        "based",
+        "inherent",
+        "sense",
+        "right",
+        "and",
+        "wrong",
+        "being",
+        "accordance",
+        "with",
+        "determined",
+        "nature",
+        "having",
+        "constituting",
+        "classification",
+        "based",
+        "features",
+        "existing",
+        "nature"
+      ]
+    },
+    "opium": {
+      "raw_definitions": [
+        "a bitter brownish addictive narcotic drug that consists of the dried latex obtained from immature seed capsules of the opium poppy",
+        "something having an effect like that of opium",
+        "an annual Eurasian poppy ( Papaver somniferum ) cultivated since antiquity as the source of opium, for its edible oily seeds, or for its showy flowers"
+      ],
+      "definition_words": [
+        "bitter",
+        "brownish",
+        "addictive",
+        "narcotic",
+        "drug",
+        "that",
+        "consists",
+        "the",
+        "dried",
+        "latex",
+        "obtained",
+        "from",
+        "immature",
+        "seed",
+        "capsules",
+        "the",
+        "opium",
+        "poppy",
+        "something",
+        "having",
+        "effect",
+        "like",
+        "that",
+        "opium",
+        "annual",
+        "eurasian",
+        "poppy",
+        "papaver",
+        "somniferum",
+        "cultivated",
+        "since",
+        "antiquity",
+        "the",
+        "source",
+        "opium",
+        "for",
+        "its",
+        "edible",
+        "oily",
+        "seeds",
+        "for",
+        "its",
+        "showy",
+        "flowers"
+      ]
+    },
+    "oppressively": {
+      "raw_definitions": [
+        "unreasonably burdensome or severe",
+        "overwhelming or depressing to the spirit or senses"
+      ],
+      "definition_words": [
+        "unreasonably",
+        "burdensome",
+        "severe",
+        "overwhelming",
+        "depressing",
+        "the",
+        "spirit",
+        "senses"
+      ]
+    },
+    "pass": {
+      "raw_definitions": [
+        "move, proceed, go",
+        "to go away depart",
+        "to move in a path so as to approach and continue beyond something move past"
+      ],
+      "definition_words": [
+        "move",
+        "proceed",
+        "away",
+        "depart",
+        "move",
+        "path",
+        "approach",
+        "and",
+        "continue",
+        "beyond",
+        "something",
+        "move",
+        "past"
+      ]
+    },
+    "pause": {
+      "raw_definitions": [
+        "a temporary stop",
+        "a break in a verse",
+        "a brief suspension of the voice to indicate the limits and relations of sentences and their parts"
+      ],
+      "definition_words": [
+        "temporary",
+        "stop",
+        "break",
+        "verse",
+        "brief",
+        "suspension",
+        "the",
+        "voice",
+        "indicate",
+        "the",
+        "limits",
+        "and",
+        "relations",
+        "sentences",
+        "and",
+        "their",
+        "parts"
+      ]
+    },
+    "pervade": {
+      "raw_definitions": [
+        "to become diffused throughout every part of"
+      ],
+      "definition_words": [
+        "become",
+        "diffused",
+        "throughout",
+        "every",
+        "part"
+      ]
+    },
+    "pleasurable": {
+      "raw_definitions": [
+        "causing a feeling of pleasure or enjoyment pleasant"
+      ],
+      "definition_words": [
+        "causing",
+        "feeling",
+        "pleasure",
+        "enjoyment",
+        "pleasant"
+      ]
+    },
+    "poetic": {
+      "raw_definitions": [
+        "of, relating to, or characteristic of poets or poetry",
+        "given to writing poetry",
+        "written in verse"
+      ],
+      "definition_words": [
+        "relating",
+        "characteristic",
+        "poets",
+        "poetry",
+        "given",
+        "writing",
+        "poetry",
+        "written",
+        "verse"
+      ]
+    },
+    "properly": {
+      "raw_definitions": [
+        "in an acceptable or suitable way",
+        "in an accurate or correct way"
+      ],
+      "definition_words": [
+        "acceptable",
+        "suitable",
+        "way",
+        "accurate",
+        "correct",
+        "way"
+      ]
+    },
+    "rank": {
+      "raw_definitions": [
+        "relative standing or position",
+        "a degree or position of dignity, eminence, or excellence distinction",
+        "high social position"
+      ],
+      "definition_words": [
+        "relative",
+        "standing",
+        "position",
+        "degree",
+        "position",
+        "dignity",
+        "eminence",
+        "excellence",
+        "distinction",
+        "high",
+        "social",
+        "position"
+      ]
+    },
+    "receive": {
+      "raw_definitions": [
+        "to come into possession of acquire",
+        "to act as a receptacle or container for",
+        "to assimilate through the mind or senses"
+      ],
+      "definition_words": [
+        "come",
+        "into",
+        "possession",
+        "acquire",
+        "act",
+        "receptacle",
+        "container",
+        "for",
+        "assimilate",
+        "through",
+        "the",
+        "mind",
+        "senses"
+      ]
+    },
+    "reveller": {
+      "raw_definitions": [
+        "one who engages in revelry"
+      ],
+      "definition_words": [
+        "one",
+        "who",
+        "engages",
+        "revelry"
+      ]
+    },
+    "say": {
+      "raw_definitions": [
+        "to express in words state",
+        "to state as opinion or belief declare",
+        "utter, pronounce"
+      ],
+      "definition_words": [
+        "express",
+        "words",
+        "state",
+        "state",
+        "opinion",
+        "belief",
+        "declare",
+        "utter",
+        "pronounce"
+      ]
+    },
+    "scene": {
+      "raw_definitions": [
+        "a division of an act presenting continuous action in one place",
+        "a single situation or unit of dialogue in a play",
+        "a movie or television episode or sequence"
+      ],
+      "definition_words": [
+        "division",
+        "act",
+        "presenting",
+        "continuous",
+        "action",
+        "one",
+        "place",
+        "single",
+        "situation",
+        "unit",
+        "dialogue",
+        "play",
+        "movie",
+        "television",
+        "episode",
+        "sequence"
+      ]
+    },
+    "sedge": {
+      "raw_definitions": [
+        "any of a family (Cyperaceae, the sedge family) of usually tufted monocotyledonous marsh plants differing from the related grasses in having achenes and solid stems"
+      ],
+      "definition_words": [
+        "any",
+        "family",
+        "cyperaceae",
+        "the",
+        "sedge",
+        "family",
+        "usually",
+        "tufted",
+        "monocotyledonous",
+        "marsh",
+        "plants",
+        "differing",
+        "from",
+        "the",
+        "related",
+        "grasses",
+        "having",
+        "achenes",
+        "and",
+        "solid",
+        "stems"
+      ]
+    },
+    "sensation": {
+      "raw_definitions": [
+        "a mental process (such as seeing, hearing, or smelling) resulting from the immediate external stimulation of a sense organ often as distinguished from a conscious awareness of the sensory process compare perception",
+        "awareness (as of heat or pain) due to stimulation of a sense organ",
+        "a state of consciousness due to internal bodily changes"
+      ],
+      "definition_words": [
+        "mental",
+        "process",
+        "such",
+        "seeing",
+        "hearing",
+        "smelling",
+        "resulting",
+        "from",
+        "the",
+        "immediate",
+        "external",
+        "stimulation",
+        "sense",
+        "organ",
+        "often",
+        "distinguished",
+        "from",
+        "conscious",
+        "awareness",
+        "the",
+        "sensory",
+        "process",
+        "compare",
+        "perception",
+        "awareness",
+        "heat",
+        "pain",
+        "due",
+        "stimulation",
+        "sense",
+        "organ",
+        "state",
+        "consciousness",
+        "due",
+        "internal",
+        "bodily",
+        "changes"
+      ]
+    },
+    "sense": {
+      "raw_definitions": [
+        "a meaning conveyed or intended import, signification",
+        "the faculty of perceiving by means of sense organs",
+        "a specialized function or mechanism (such as sight, hearing, smell, taste, or touch) by which an animal receives and responds to external or internal stimuli"
+      ],
+      "definition_words": [
+        "meaning",
+        "conveyed",
+        "intended",
+        "import",
+        "signification",
+        "the",
+        "faculty",
+        "perceiving",
+        "means",
+        "sense",
+        "organs",
+        "specialized",
+        "function",
+        "mechanism",
+        "such",
+        "sight",
+        "hearing",
+        "smell",
+        "taste",
+        "touch",
+        "which",
+        "animal",
+        "receives",
+        "and",
+        "responds",
+        "external",
+        "internal",
+        "stimuli"
+      ]
+    },
+    "sentiment": {
+      "raw_definitions": [
+        "an attitude, thought, or judgment prompted by feeling predilection",
+        "a specific view or notion opinion",
+        "refined feeling delicate sensibility especially as expressed in a work of art"
+      ],
+      "definition_words": [
+        "attitude",
+        "thought",
+        "judgment",
+        "prompted",
+        "feeling",
+        "predilection",
+        "specific",
+        "view",
+        "notion",
+        "opinion",
+        "refined",
+        "feeling",
+        "delicate",
+        "sensibility",
+        "especially",
+        "expressed",
+        "work",
+        "art"
+      ]
+    },
+    "shade": {
+      "raw_definitions": [
+        "comparative darkness or obscurity produced when something blocks the light of the sun",
+        "relative obscurity or retirement",
+        "shelter (as by foliage) from the heat and glare of sunlight"
+      ],
+      "definition_words": [
+        "comparative",
+        "darkness",
+        "obscurity",
+        "produced",
+        "when",
+        "something",
+        "blocks",
+        "the",
+        "light",
+        "the",
+        "sun",
+        "relative",
+        "obscurity",
+        "retirement",
+        "shelter",
+        "foliage",
+        "from",
+        "the",
+        "heat",
+        "and",
+        "glare",
+        "sunlight"
+      ]
+    },
+    "sicken": {
+      "raw_definitions": [
+        "to become sick",
+        "to become weary or satiated",
+        "to make sick"
+      ],
+      "definition_words": [
+        "become",
+        "sick",
+        "become",
+        "weary",
+        "satiated",
+        "make",
+        "sick"
+      ]
+    },
+    "simple": {
+      "raw_definitions": [
+        "free from guile innocent",
+        "free from vanity modest",
+        "free from ostentation or display"
+      ],
+      "definition_words": [
+        "free",
+        "from",
+        "guile",
+        "innocent",
+        "free",
+        "from",
+        "vanity",
+        "modest",
+        "free",
+        "from",
+        "ostentation",
+        "display"
+      ]
+    },
+    "singularly": {
+      "raw_definitions": [
+        "of or relating to a separate person or thing individual",
+        "of, relating to, or being a word form denoting one person, thing, or instance",
+        "of or relating to a single instance or to something considered by itself"
+      ],
+      "definition_words": [
+        "relating",
+        "separate",
+        "person",
+        "thing",
+        "individual",
+        "relating",
+        "being",
+        "word",
+        "form",
+        "denoting",
+        "one",
+        "person",
+        "thing",
+        "instance",
+        "relating",
+        "single",
+        "instance",
+        "something",
+        "considered",
+        "itself"
+      ]
+    },
+    "sink": {
+      "raw_definitions": [
+        "to go to the bottom submerge",
+        "to become partly buried (as in mud)",
+        "to become engulfed"
+      ],
+      "definition_words": [
+        "the",
+        "bottom",
+        "submerge",
+        "become",
+        "partly",
+        "buried",
+        "mud",
+        "become",
+        "engulfed"
+      ]
+    },
+    "soul": {
+      "raw_definitions": [
+        "the immaterial essence, animating principle, or actuating cause of an individual life",
+        "the spiritual principle embodied in human beings, all rational and spiritual beings, or the universe",
+        "a person's total self"
+      ],
+      "definition_words": [
+        "the",
+        "immaterial",
+        "essence",
+        "animating",
+        "principle",
+        "actuating",
+        "cause",
+        "individual",
+        "life",
+        "the",
+        "spiritual",
+        "principle",
+        "embodied",
+        "human",
+        "beings",
+        "all",
+        "rational",
+        "and",
+        "spiritual",
+        "beings",
+        "the",
+        "universe",
+        "person",
+        "total",
+        "self"
+      ]
+    },
+    "soundless": {
+      "raw_definitions": [
+        "incapable of being sounded unfathomable",
+        "making no sound silent"
+      ],
+      "definition_words": [
+        "incapable",
+        "being",
+        "sounded",
+        "unfathomable",
+        "making",
+        "sound",
+        "silent"
+      ]
+    },
+    "spirit": {
+      "raw_definitions": [
+        "an animating or vital principle held to give life to physical organisms",
+        "holy spirit",
+        "an often malevolent being that is bodiless but can become visible"
+      ],
+      "definition_words": [
+        "animating",
+        "vital",
+        "principle",
+        "held",
+        "give",
+        "life",
+        "physical",
+        "organisms",
+        "holy",
+        "spirit",
+        "often",
+        "malevolent",
+        "being",
+        "that",
+        "bodiless",
+        "but",
+        "can",
+        "become",
+        "visible"
+      ]
+    },
+    "stern": {
+      "raw_definitions": [
+        "having a definite hardness or severity of nature or manner austere",
+        "expressive of severe displeasure harsh",
+        "forbidding or gloomy in appearance"
+      ],
+      "definition_words": [
+        "having",
+        "definite",
+        "hardness",
+        "severity",
+        "nature",
+        "manner",
+        "austere",
+        "expressive",
+        "severe",
+        "displeasure",
+        "harsh",
+        "forbidding",
+        "gloomy",
+        "appearance"
+      ]
+    },
+    "sublime": {
+      "raw_definitions": [
+        "to cause to pass directly from the solid to the vapor state and condense back to solid form",
+        "to convert (something inferior) into something of higher worth",
+        "to pass directly from the solid to the vapor state"
+      ],
+      "definition_words": [
+        "cause",
+        "pass",
+        "directly",
+        "from",
+        "the",
+        "solid",
+        "the",
+        "vapor",
+        "state",
+        "and",
+        "condense",
+        "back",
+        "solid",
+        "form",
+        "convert",
+        "something",
+        "inferior",
+        "into",
+        "something",
+        "higher",
+        "worth",
+        "pass",
+        "directly",
+        "from",
+        "the",
+        "solid",
+        "the",
+        "vapor",
+        "state"
+      ]
+    },
+    "terrible": {
+      "raw_definitions": [
+        "notably unattractive or objectionable",
+        "of very poor quality",
+        "strongly repulsive obnoxious"
+      ],
+      "definition_words": [
+        "notably",
+        "unattractive",
+        "objectionable",
+        "very",
+        "poor",
+        "quality",
+        "strongly",
+        "repulsive",
+        "obnoxious"
+      ]
+    },
+    "think": {
+      "raw_definitions": [
+        "to form or have in the mind",
+        "to have as an intention",
+        "to have as an opinion"
+      ],
+      "definition_words": [
+        "form",
+        "have",
+        "the",
+        "mind",
+        "have",
+        "intention",
+        "have",
+        "opinion"
+      ]
+    },
+    "torture": {
+      "raw_definitions": [
+        "the infliction of intense pain (as from burning, crushing, or wounding) to punish, coerce, or afford sadistic pleasure",
+        "something that causes agony or pain",
+        "anguish of body or mind agony"
+      ],
+      "definition_words": [
+        "the",
+        "infliction",
+        "intense",
+        "pain",
+        "from",
+        "burning",
+        "crushing",
+        "wounding",
+        "punish",
+        "coerce",
+        "afford",
+        "sadistic",
+        "pleasure",
+        "something",
+        "that",
+        "causes",
+        "agony",
+        "pain",
+        "anguish",
+        "body",
+        "mind",
+        "agony"
+      ]
+    },
+    "tract": {
+      "raw_definitions": [
+        "a system of body parts or organs that act together to perform some function",
+        "a bundle of nerve fibers having a common origin, termination, and function",
+        "an indefinite stretch of land"
+      ],
+      "definition_words": [
+        "system",
+        "body",
+        "parts",
+        "organs",
+        "that",
+        "act",
+        "together",
+        "perform",
+        "some",
+        "function",
+        "bundle",
+        "nerve",
+        "fibers",
+        "having",
+        "common",
+        "origin",
+        "termination",
+        "and",
+        "function",
+        "indefinite",
+        "stretch",
+        "land"
+      ]
+    },
+    "tree": {
+      "raw_definitions": [
+        "a woody perennial plant having a single usually elongated main stem generally with few or no branches on its lower part",
+        "a shrub or herb of arborescent form",
+        "a diagram or graph that branches usually from a simple stem or vertex without forming loops or polygons"
+      ],
+      "definition_words": [
+        "woody",
+        "perennial",
+        "plant",
+        "having",
+        "single",
+        "usually",
+        "elongated",
+        "main",
+        "stem",
+        "generally",
+        "with",
+        "few",
+        "branches",
+        "its",
+        "lower",
+        "part",
+        "shrub",
+        "herb",
+        "arborescent",
+        "form",
+        "diagram",
+        "graph",
+        "that",
+        "branches",
+        "usually",
+        "from",
+        "simple",
+        "stem",
+        "vertex",
+        "without",
+        "forming",
+        "loops",
+        "polygons"
+      ]
+    },
+    "trunk": {
+      "raw_definitions": [
+        "the main stem of a tree apart from limbs and roots",
+        "the central part of anything",
+        "men's shorts worn chiefly for sports"
+      ],
+      "definition_words": [
+        "the",
+        "main",
+        "stem",
+        "tree",
+        "apart",
+        "from",
+        "limbs",
+        "and",
+        "roots",
+        "the",
+        "central",
+        "part",
+        "anything",
+        "men",
+        "shorts",
+        "worn",
+        "chiefly",
+        "for",
+        "sports"
+      ]
+    },
+    "unnerved": {
+      "raw_definitions": [
+        "to deprive of courage, strength, or steadiness",
+        "to cause to become nervous upset"
+      ],
+      "definition_words": [
+        "deprive",
+        "courage",
+        "strength",
+        "steadiness",
+        "cause",
+        "become",
+        "nervous",
+        "upset"
+      ]
+    },
+    "unredeemed": {
+      "raw_definitions": [
+        "not redeemed"
+      ],
+      "definition_words": [
+        "not",
+        "redeemed"
+      ]
+    },
+    "unrelieved": {
+      "raw_definitions": [
+        "not given relief furnished no assistance, remedy, or mitigation",
+        "not including anything that provides a desirable change monotonous, unvarying"
+      ],
+      "definition_words": [
+        "not",
+        "given",
+        "relief",
+        "furnished",
+        "assistance",
+        "remedy",
+        "mitigation",
+        "not",
+        "including",
+        "anything",
+        "that",
+        "provides",
+        "desirable",
+        "change",
+        "monotonous",
+        "unvarying"
+      ]
+    },
+    "usher": {
+      "raw_definitions": [
+        "an officer or servant who has the care of the door of a court, hall, or chamber",
+        "an officer who walks before a person of rank",
+        "one who escorts persons to their seats (as in a theater)"
+      ],
+      "definition_words": [
+        "officer",
+        "servant",
+        "who",
+        "has",
+        "the",
+        "care",
+        "the",
+        "door",
+        "court",
+        "hall",
+        "chamber",
+        "officer",
+        "who",
+        "walks",
+        "before",
+        "person",
+        "rank",
+        "one",
+        "who",
+        "escorts",
+        "persons",
+        "their",
+        "seats",
+        "theater"
+      ]
+    },
+    "utter": {
+      "raw_definitions": [
+        "carried to the utmost point or highest degree absolute, total",
+        "to send forth as a sound",
+        "to give utterance to pronounce, speak"
+      ],
+      "definition_words": [
+        "carried",
+        "the",
+        "utmost",
+        "point",
+        "highest",
+        "degree",
+        "absolute",
+        "total",
+        "send",
+        "forth",
+        "sound",
+        "give",
+        "utterance",
+        "pronounce",
+        "speak"
+      ]
+    },
+    "vacant": {
+      "raw_definitions": [
+        "not occupied by an incumbent, possessor, or officer",
+        "being without content or occupant",
+        "free from activity or work"
+      ],
+      "definition_words": [
+        "not",
+        "occupied",
+        "incumbent",
+        "possessor",
+        "officer",
+        "being",
+        "without",
+        "content",
+        "occupant",
+        "free",
+        "from",
+        "activity",
+        "work"
+      ]
+    },
+    "veil": {
+      "raw_definitions": [
+        "a length of cloth worn by women as a covering for the head and shoulders and often especially in Eastern countries for the face",
+        "a length of veiling or netting worn over the head or face or attached for protection or ornament to a hat or headdress",
+        "any of various liturgical cloths"
+      ],
+      "definition_words": [
+        "length",
+        "cloth",
+        "worn",
+        "women",
+        "covering",
+        "for",
+        "the",
+        "head",
+        "and",
+        "shoulders",
+        "and",
+        "often",
+        "especially",
+        "eastern",
+        "countries",
+        "for",
+        "the",
+        "face",
+        "length",
+        "veiling",
+        "netting",
+        "worn",
+        "over",
+        "the",
+        "head",
+        "face",
+        "attached",
+        "for",
+        "protection",
+        "ornament",
+        "hat",
+        "headdress",
+        "any",
+        "various",
+        "liturgical",
+        "cloths"
+      ]
+    },
+    "view": {
+      "raw_definitions": [
+        "extent or range of vision sight",
+        "the act of seeing or examining inspection",
+        "a mode or manner of looking at or regarding something"
+      ],
+      "definition_words": [
+        "extent",
+        "range",
+        "vision",
+        "sight",
+        "the",
+        "act",
+        "seeing",
+        "examining",
+        "inspection",
+        "mode",
+        "manner",
+        "looking",
+        "regarding",
+        "something"
+      ]
+    },
+    "wall": {
+      "raw_definitions": [
+        "a high thick masonry structure forming a long rampart or an enclosure chiefly for defense",
+        "a masonry fence around a garden, park, or estate",
+        "a structure that serves to hold back pressure (as of water or sliding earth)"
+      ],
+      "definition_words": [
+        "high",
+        "thick",
+        "masonry",
+        "structure",
+        "forming",
+        "long",
+        "rampart",
+        "enclosure",
+        "chiefly",
+        "for",
+        "defense",
+        "masonry",
+        "fence",
+        "around",
+        "garden",
+        "park",
+        "estate",
+        "structure",
+        "that",
+        "serves",
+        "hold",
+        "back",
+        "pressure",
+        "water",
+        "sliding",
+        "earth"
+      ]
+    },
+    "white": {
+      "raw_definitions": [
+        "having the color of new snow or milk",
+        "light or pale in color",
+        "free from color clear, transparent"
+      ],
+      "definition_words": [
+        "having",
+        "the",
+        "color",
+        "new",
+        "snow",
+        "milk",
+        "light",
+        "pale",
+        "color",
+        "free",
+        "from",
+        "color",
+        "clear",
+        "transparent"
+      ]
+    },
+    "window": {
+      "raw_definitions": [
+        "an opening especially in the wall of a building for admission of light and air that is usually closed by casements or sashes containing transparent material (such as glass) and capable of being opened and shut",
+        "a space behind a window of a retail store containing displayed merchandise",
+        "an opening in a partition or wall through which business is conducted"
+      ],
+      "definition_words": [
+        "opening",
+        "especially",
+        "the",
+        "wall",
+        "building",
+        "for",
+        "admission",
+        "light",
+        "and",
+        "air",
+        "that",
+        "usually",
+        "closed",
+        "casements",
+        "sashes",
+        "containing",
+        "transparent",
+        "material",
+        "such",
+        "glass",
+        "and",
+        "capable",
+        "being",
+        "opened",
+        "and",
+        "shut",
+        "space",
+        "behind",
+        "window",
+        "retail",
+        "store",
+        "containing",
+        "displayed",
+        "merchandise",
+        "opening",
+        "partition",
+        "wall",
+        "through",
+        "which",
+        "business",
+        "conducted"
+      ]
+    },
+    "year": {
+      "raw_definitions": [
+        "the period of about 365 1 / 4 solar days required for one revolution of the earth around the sun",
+        "the time required for the apparent sun to return to an arbitrary fixed or moving reference point in the sky",
+        "the time in which a planet completes a revolution about the sun"
+      ],
+      "definition_words": [
+        "the",
+        "period",
+        "about",
+        "solar",
+        "days",
+        "required",
+        "for",
+        "one",
+        "revolution",
+        "the",
+        "earth",
+        "around",
+        "the",
+        "sun",
+        "the",
+        "time",
+        "required",
+        "for",
+        "the",
+        "apparent",
+        "sun",
+        "return",
+        "arbitrary",
+        "fixed",
+        "moving",
+        "reference",
+        "point",
+        "the",
+        "sky",
+        "the",
+        "time",
+        "which",
+        "planet",
+        "completes",
+        "revolution",
+        "about",
+        "the",
+        "sun"
+      ]
+    }
+  }
+}

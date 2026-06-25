@@ -1,0 +1,126 @@
+<svg width="518" height="414" viewBox="0 0 518 414" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<rect width="518" height="414" fill="white"/>
+<rect x="20" y="24" width="18" height="16" rx="3" fill="#E1F5EE"/>
+<text x="29" y="36" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="42" y="36" font-size="10" fill="#6b6b6b">STRONG (t ≥ 10)</text>
+<rect x="150" y="24" width="18" height="16" rx="3" fill="#EEEDFE"/>
+<text x="159" y="36" text-anchor="middle" font-size="10" font-weight="600" fill="#534AB7">M</text>
+<text x="172" y="36" font-size="10" fill="#6b6b6b">MEDIUM (t ≥ 8)</text>
+<rect x="280" y="24" width="18" height="16" rx="3" fill="#FAEEDA"/>
+<text x="289" y="36" text-anchor="middle" font-size="10" font-weight="600" fill="#854F0B">W</text>
+<text x="302" y="36" font-size="10" fill="#6b6b6b">WEAK (t ≥ 5)</text>
+<text x="410" y="36" font-size="13" fill="#b0b0b0">—</text>
+<text x="424" y="36" font-size="10" fill="#6b6b6b">absent</text>
+<text x="20" y="58" font-size="10" font-weight="600" fill="#6b6b6b" letter-spacing="0.5">POE, HOUSE OF USHER</text>
+<text x="20" y="110" font-size="10" fill="#6b6b6b" font-weight="500">Pair</text>
+<text x="182" y="110" font-size="10" fill="#6b6b6b" font-weight="500" text-anchor="start" transform="rotate(-45,182,110)">WK</text>
+<text x="230" y="110" font-size="10" fill="#6b6b6b" font-weight="500" text-anchor="start" transform="rotate(-45,230,110)">WN</text>
+<text x="278" y="110" font-size="10" fill="#6b6b6b" font-weight="500" text-anchor="start" transform="rotate(-45,278,110)">MW</text>
+<text x="326" y="110" font-size="10" fill="#6b6b6b" font-weight="500" text-anchor="start" transform="rotate(-45,326,110)">W1828</text>
+<text x="374" y="110" font-size="10" fill="#6b6b6b" font-weight="500" text-anchor="start" transform="rotate(-45,374,110)">WK+WN+MW</text>
+<text x="422" y="110" font-size="10" fill="#6b6b6b" font-weight="500" text-anchor="start" transform="rotate(-45,422,110)">WK+WN+MW+W1828</text>
+<line x1="20" y1="116" x2="446" y2="116" stroke="rgba(0,0,0,0.3)" stroke-width="0.5"/>
+<line x1="302" y1="90" x2="302" y2="356" stroke="rgba(0,0,0,0.25)" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="20" y="131" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">life–soul</text>
+<line x1="20" y1="140" x2="446" y2="140" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+<text x="182" y="132" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="132" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="266" y="120" width="24" height="16" rx="3" fill="#FAEEDA"/>
+<text x="278" y="132" text-anchor="middle" font-size="10" font-weight="600" fill="#854F0B">W</text>
+<text x="326" y="132" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="362" y="120" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="374" y="132" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<rect x="410" y="120" width="24" height="16" rx="3" fill="#FAEEDA"/>
+<text x="422" y="132" text-anchor="middle" font-size="10" font-weight="600" fill="#854F0B">W</text>
+<text x="20" y="155" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">life–spirit</text>
+<line x1="20" y1="164" x2="446" y2="164" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+<text x="182" y="156" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="156" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="266" y="144" width="24" height="16" rx="3" fill="#FAEEDA"/>
+<text x="278" y="156" text-anchor="middle" font-size="10" font-weight="600" fill="#854F0B">W</text>
+<text x="326" y="156" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="362" y="144" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="374" y="156" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="422" y="156" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="20" y="179" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">soul–spirit</text>
+<line x1="20" y1="188" x2="446" y2="188" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+<text x="182" y="180" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="180" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="266" y="168" width="24" height="16" rx="3" fill="#FAEEDA"/>
+<text x="278" y="180" text-anchor="middle" font-size="10" font-weight="600" fill="#854F0B">W</text>
+<rect x="314" y="168" width="24" height="16" rx="3" fill="#FAEEDA"/>
+<text x="326" y="180" text-anchor="middle" font-size="10" font-weight="600" fill="#854F0B">W</text>
+<rect x="362" y="168" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="374" y="180" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="422" y="180" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="20" y="203" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">heart–life</text>
+<line x1="20" y1="212" x2="446" y2="212" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+<text x="182" y="204" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="204" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="278" y="204" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="314" y="192" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="326" y="204" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="374" y="204" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="410" y="192" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="422" y="204" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="20" y="227" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">decay–sense</text>
+<line x1="20" y1="236" x2="446" y2="236" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+<text x="182" y="228" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="228" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="278" y="228" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="314" y="216" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="326" y="228" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="374" y="228" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="410" y="216" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="422" y="228" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="20" y="251" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">dark–shade</text>
+<line x1="20" y1="260" x2="446" y2="260" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+<text x="182" y="252" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="252" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="278" y="252" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="326" y="252" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="362" y="240" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="374" y="252" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<rect x="410" y="240" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="422" y="252" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="20" y="275" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">gloom–shade</text>
+<line x1="20" y1="284" x2="446" y2="284" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+<text x="182" y="276" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="276" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="278" y="276" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="326" y="276" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="374" y="276" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="410" y="264" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="422" y="276" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="20" y="299" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">dreariness–dreary</text>
+<line x1="20" y1="308" x2="446" y2="308" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+<text x="182" y="300" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="300" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="266" y="288" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="278" y="300" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<rect x="314" y="288" width="24" height="16" rx="3" fill="#FAEEDA"/>
+<text x="326" y="300" text-anchor="middle" font-size="10" font-weight="600" fill="#854F0B">W</text>
+<rect x="362" y="288" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="374" y="300" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<rect x="410" y="288" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="422" y="300" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="20" y="323" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">dropping–sink</text>
+<line x1="20" y1="332" x2="446" y2="332" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+<text x="182" y="324" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="324" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="278" y="324" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="326" y="324" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="374" y="324" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="410" y="312" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="422" y="324" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="20" y="347" font-size="11" fill="#1a1a1a" font-family="Courier New, monospace">hideous–terrible</text>
+<text x="182" y="348" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="230" y="348" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<text x="278" y="348" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="314" y="336" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="326" y="348" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="374" y="348" text-anchor="middle" font-size="13" fill="#b0b0b0">—</text>
+<rect x="410" y="336" width="24" height="16" rx="3" fill="#E1F5EE"/>
+<text x="422" y="348" text-anchor="middle" font-size="10" font-weight="600" fill="#0F6E56">S</text>
+<text x="20" y="370" font-size="10" fill="#6b6b6b">Full four-resource comparison. Dashed column separates modern resources from Webster 1828.</text>
+</svg>
