@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# copyrighted source texts — keep locally, never push
+data/corpus/*.epub
+data/corpus/*.txt
+data/corpus/*.json
