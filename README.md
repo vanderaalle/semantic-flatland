@@ -62,13 +62,13 @@ figures/
 ## Dependencies
 
 ```bash
-pip install simplemma graphviz matplotlib networkx
+pip install simplemma requests graphviz matplotlib
 ```
 
 - [`simplemma`](https://github.com/adbar/simplemma) — multilingual lemmatizer
-- `graphviz` — graph layout and rendering
-- `matplotlib` — edge distribution plots
-- `networkx` — graph operations (optional)
+- `requests` — Wiktionary definition fetcher
+- `graphviz` — graph layout and rendering (figure scripts)
+- `matplotlib` — edge distribution plots (figure scripts)
 
 Python 3.10+.
 
