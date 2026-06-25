@@ -1,0 +1,7513 @@
+[
+  {
+    "config": "WK",
+    "resources": [
+      "wk"
+    ],
+    "tiers": [
+      {
+        "label": "STRONG",
+        "threshold": 10.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "autumn",
+              "lapse"
+            ],
+            "semes": [
+              "month",
+              "hemisphere",
+              "temperature",
+              "decrease",
+              "warm",
+              "air",
+              "third",
+              "deciduous"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "year"
+            ],
+            "semes": [
+              "full",
+              "cycle",
+              "equal",
+              "season",
+              "period",
+              "almost",
+              "rotation",
+              "axis"
+            ]
+          },
+          {
+            "lemmas": [
+              "evening",
+              "length"
+            ],
+            "semes": [
+              "between",
+              "end",
+              "afternoon",
+              "horse",
+              "approximate",
+              "midwinter",
+              "dusk",
+              "midnight"
+            ]
+          },
+          {
+            "lemmas": [
+              "sedge",
+              "tree"
+            ],
+            "semes": [
+              "plant",
+              "perennial",
+              "herb",
+              "leave",
+              "genus",
+              "carex",
+              "triangular",
+              "jointless"
+            ]
+          },
+          {
+            "lemmas": [
+              "sink",
+              "sublime"
+            ],
+            "semes": [
+              "substance",
+              "container",
+              "gas",
+              "solid",
+              "liquid",
+              "descend",
+              "submerge",
+              "synonym"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "contemplation",
+          "country",
+          "dark",
+          "decay",
+          "depression",
+          "desolate",
+          "domain",
+          "draw",
+          "dream",
+          "dreariness",
+          "dreary",
+          "dropping",
+          "dull",
+          "earthly",
+          "eye",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hang",
+          "heart",
+          "heaven",
+          "hideous",
+          "horseback",
+          "house",
+          "iciness",
+          "image",
+          "imagination",
+          "insufferable",
+          "know",
+          "landscape",
+          "life",
+          "like",
+          "look",
+          "low",
+          "melancholy",
+          "mere",
+          "mind",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "scene",
+          "sensation",
+          "sense",
+          "sentiment",
+          "shade",
+          "sicken",
+          "simple",
+          "singularly",
+          "soul",
+          "soundless",
+          "spirit",
+          "stern",
+          "terrible",
+          "think",
+          "torture",
+          "tract",
+          "trunk",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "view",
+          "wall",
+          "white",
+          "window"
+        ]
+      },
+      {
+        "label": "MEDIUM",
+        "threshold": 8.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "autumn",
+              "lapse"
+            ],
+            "semes": [
+              "month",
+              "hemisphere",
+              "temperature",
+              "decrease",
+              "warm",
+              "air",
+              "third",
+              "deciduous"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "year"
+            ],
+            "semes": [
+              "full",
+              "cycle",
+              "equal",
+              "season",
+              "period",
+              "almost",
+              "rotation",
+              "axis"
+            ]
+          },
+          {
+            "lemmas": [
+              "evening",
+              "length"
+            ],
+            "semes": [
+              "between",
+              "end",
+              "afternoon",
+              "horse",
+              "approximate",
+              "midwinter",
+              "dusk",
+              "midnight"
+            ]
+          },
+          {
+            "lemmas": [
+              "sedge",
+              "tree"
+            ],
+            "semes": [
+              "plant",
+              "perennial",
+              "herb",
+              "leave",
+              "genus",
+              "carex",
+              "triangular",
+              "jointless"
+            ]
+          },
+          {
+            "lemmas": [
+              "sink",
+              "sublime"
+            ],
+            "semes": [
+              "substance",
+              "container",
+              "gas",
+              "solid",
+              "liquid",
+              "descend",
+              "submerge",
+              "synonym"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "contemplation",
+          "country",
+          "dark",
+          "decay",
+          "depression",
+          "desolate",
+          "domain",
+          "draw",
+          "dream",
+          "dreariness",
+          "dreary",
+          "dropping",
+          "dull",
+          "earthly",
+          "eye",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hang",
+          "heart",
+          "heaven",
+          "hideous",
+          "horseback",
+          "house",
+          "iciness",
+          "image",
+          "imagination",
+          "insufferable",
+          "know",
+          "landscape",
+          "life",
+          "like",
+          "look",
+          "low",
+          "melancholy",
+          "mere",
+          "mind",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "scene",
+          "sensation",
+          "sense",
+          "sentiment",
+          "shade",
+          "sicken",
+          "simple",
+          "singularly",
+          "soul",
+          "soundless",
+          "spirit",
+          "stern",
+          "terrible",
+          "think",
+          "torture",
+          "tract",
+          "trunk",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "view",
+          "wall",
+          "white",
+          "window"
+        ]
+      },
+      {
+        "label": "WEAK",
+        "threshold": 5.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "evening",
+              "length",
+              "trunk"
+            ],
+            "semes": [
+              "between",
+              "end",
+              "afternoon",
+              "upright",
+              "root",
+              "horse",
+              "branch",
+              "less"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "simple"
+            ],
+            "semes": [
+              "nothing",
+              "lack",
+              "peer",
+              "share",
+              "belief",
+              "practice",
+              "further",
+              "uncomplicate"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "heart"
+            ],
+            "semes": [
+              "month",
+              "hemisphere",
+              "traditionally",
+              "good",
+              "third",
+              "deciduous",
+              "lose",
+              "daylight"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "trunk"
+            ],
+            "semes": [
+              "less",
+              "indefinite",
+              "occupation",
+              "suitability",
+              "population",
+              "dialect",
+              "culture",
+              "writer"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "year"
+            ],
+            "semes": [
+              "full",
+              "cycle",
+              "equal",
+              "season",
+              "period",
+              "almost",
+              "rotation",
+              "axis"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "landscape"
+            ],
+            "semes": [
+              "field",
+              "subject",
+              "expertise",
+              "related",
+              "topic",
+              "picture",
+              "hill",
+              "forest"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "know"
+            ],
+            "semes": [
+              "specify",
+              "perceive",
+              "surrounding",
+              "iris",
+              "mean",
+              "normally",
+              "modern",
+              "english"
+            ]
+          },
+          {
+            "lemmas": [
+              "found",
+              "poetic"
+            ],
+            "semes": [
+              "example",
+              "add",
+              "begin",
+              "food",
+              "lodging",
+              "board",
+              "beholder",
+              "poet"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "glimpse"
+            ],
+            "semes": [
+              "briefly",
+              "incompletely",
+              "perceive",
+              "light",
+              "surrounding",
+              "iris",
+              "tangible",
+              "glance"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "lapse"
+            ],
+            "semes": [
+              "month",
+              "hemisphere",
+              "temperature",
+              "decrease",
+              "warm",
+              "air",
+              "third",
+              "deciduous"
+            ]
+          },
+          {
+            "lemmas": [
+              "sedge",
+              "tree"
+            ],
+            "semes": [
+              "plant",
+              "perennial",
+              "herb",
+              "leave",
+              "genus",
+              "carex",
+              "triangular",
+              "jointless"
+            ]
+          },
+          {
+            "lemmas": [
+              "sink",
+              "sublime"
+            ],
+            "semes": [
+              "substance",
+              "container",
+              "gas",
+              "solid",
+              "liquid",
+              "descend",
+              "submerge",
+              "synonym"
+            ]
+          },
+          {
+            "lemmas": [
+              "heart",
+              "tract"
+            ],
+            "semes": [
+              "organ",
+              "body",
+              "affection",
+              "collectively",
+              "separately",
+              "love",
+              "hate",
+              "joy"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "white"
+            ],
+            "semes": [
+              "month",
+              "hemisphere",
+              "warm",
+              "skin",
+              "third",
+              "deciduous",
+              "lose",
+              "daylight"
+            ]
+          }
+        ],
+        "isolates": [
+          "aught",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "contemplation",
+          "dark",
+          "decay",
+          "depression",
+          "desolate",
+          "draw",
+          "dream",
+          "dreariness",
+          "dreary",
+          "dropping",
+          "dull",
+          "earthly",
+          "feature",
+          "feeling",
+          "first",
+          "gloom",
+          "goad",
+          "hang",
+          "heaven",
+          "hideous",
+          "horseback",
+          "house",
+          "iciness",
+          "image",
+          "imagination",
+          "insufferable",
+          "life",
+          "like",
+          "look",
+          "low",
+          "melancholy",
+          "mere",
+          "mind",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "scene",
+          "sensation",
+          "sense",
+          "sentiment",
+          "shade",
+          "sicken",
+          "singularly",
+          "soul",
+          "soundless",
+          "spirit",
+          "stern",
+          "terrible",
+          "think",
+          "torture",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "view",
+          "wall",
+          "window"
+        ]
+      }
+    ]
+  },
+  {
+    "config": "WN",
+    "resources": [
+      "wn"
+    ],
+    "tiers": [
+      {
+        "label": "STRONG",
+        "threshold": 10.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "scene",
+              "view"
+            ],
+            "semes": [
+              "percept",
+              "region",
+              "visual",
+              "incident",
+              "imaginary",
+              "topic",
+              "situation"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "autumn",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "contemplation",
+          "country",
+          "dark",
+          "day",
+          "decay",
+          "depression",
+          "desolate",
+          "domain",
+          "draw",
+          "dream",
+          "dreariness",
+          "dreary",
+          "dropping",
+          "dull",
+          "earthly",
+          "evening",
+          "eye",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hang",
+          "heart",
+          "heaven",
+          "hideous",
+          "horseback",
+          "house",
+          "iciness",
+          "image",
+          "imagination",
+          "insufferable",
+          "know",
+          "landscape",
+          "lapse",
+          "length",
+          "life",
+          "like",
+          "look",
+          "low",
+          "melancholy",
+          "mere",
+          "mind",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "sedge",
+          "sensation",
+          "sense",
+          "sentiment",
+          "shade",
+          "sicken",
+          "simple",
+          "singularly",
+          "sink",
+          "soul",
+          "soundless",
+          "spirit",
+          "stern",
+          "sublime",
+          "terrible",
+          "think",
+          "torture",
+          "tract",
+          "tree",
+          "trunk",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "wall",
+          "white",
+          "window",
+          "year"
+        ]
+      },
+      {
+        "label": "MEDIUM",
+        "threshold": 8.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "scene",
+              "view"
+            ],
+            "semes": [
+              "percept",
+              "region",
+              "visual",
+              "incident",
+              "imaginary",
+              "topic",
+              "situation"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "autumn",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "contemplation",
+          "country",
+          "dark",
+          "day",
+          "decay",
+          "depression",
+          "desolate",
+          "domain",
+          "draw",
+          "dream",
+          "dreariness",
+          "dreary",
+          "dropping",
+          "dull",
+          "earthly",
+          "evening",
+          "eye",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hang",
+          "heart",
+          "heaven",
+          "hideous",
+          "horseback",
+          "house",
+          "iciness",
+          "image",
+          "imagination",
+          "insufferable",
+          "know",
+          "landscape",
+          "lapse",
+          "length",
+          "life",
+          "like",
+          "look",
+          "low",
+          "melancholy",
+          "mere",
+          "mind",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "sedge",
+          "sensation",
+          "sense",
+          "sentiment",
+          "shade",
+          "sicken",
+          "simple",
+          "singularly",
+          "sink",
+          "soul",
+          "soundless",
+          "spirit",
+          "stern",
+          "sublime",
+          "terrible",
+          "think",
+          "torture",
+          "tract",
+          "tree",
+          "trunk",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "wall",
+          "white",
+          "window",
+          "year"
+        ]
+      },
+      {
+        "label": "WEAK",
+        "threshold": 5.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "dull",
+              "utter"
+            ],
+            "semes": [
+              "noise",
+              "sound",
+              "lusterless",
+              "appearance",
+              "lose",
+              "shine",
+              "brightness",
+              "deaden"
+            ]
+          },
+          {
+            "lemmas": [
+              "house",
+              "rank"
+            ],
+            "semes": [
+              "soldier",
+              "member",
+              "organization",
+              "dwelling",
+              "quarter",
+              "family",
+              "business",
+              "operate"
+            ]
+          },
+          {
+            "lemmas": [
+              "say",
+              "utter"
+            ],
+            "semes": [
+              "express",
+              "word",
+              "report",
+              "maintain",
+              "articulate",
+              "verbally",
+              "cry",
+              "shout"
+            ]
+          },
+          {
+            "lemmas": [
+              "scene",
+              "view"
+            ],
+            "semes": [
+              "percept",
+              "region",
+              "visual",
+              "incident",
+              "imaginary",
+              "topic",
+              "situation"
+            ]
+          },
+          {
+            "lemmas": [
+              "shade",
+              "white"
+            ],
+            "semes": [
+              "color",
+              "unite",
+              "quality",
+              "relative",
+              "ray",
+              "intercept",
+              "opaque",
+              "given"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "autumn",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "contemplation",
+          "country",
+          "dark",
+          "day",
+          "decay",
+          "depression",
+          "desolate",
+          "domain",
+          "draw",
+          "dream",
+          "dreariness",
+          "dreary",
+          "dropping",
+          "earthly",
+          "evening",
+          "eye",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hang",
+          "heart",
+          "heaven",
+          "hideous",
+          "horseback",
+          "iciness",
+          "image",
+          "imagination",
+          "insufferable",
+          "know",
+          "landscape",
+          "lapse",
+          "length",
+          "life",
+          "like",
+          "look",
+          "low",
+          "melancholy",
+          "mere",
+          "mind",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "receive",
+          "reveller",
+          "sedge",
+          "sensation",
+          "sense",
+          "sentiment",
+          "sicken",
+          "simple",
+          "singularly",
+          "sink",
+          "soul",
+          "soundless",
+          "spirit",
+          "stern",
+          "sublime",
+          "terrible",
+          "think",
+          "torture",
+          "tract",
+          "tree",
+          "trunk",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "vacant",
+          "veil",
+          "wall",
+          "window",
+          "year"
+        ]
+      }
+    ]
+  },
+  {
+    "config": "MW",
+    "resources": [
+      "mw"
+    ],
+    "tiers": [
+      {
+        "label": "STRONG",
+        "threshold": 10.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "dreariness",
+              "dreary"
+            ],
+            "semes": [
+              "cheer",
+              "comfort",
+              "interest",
+              "gloomy",
+              "dismal",
+              "listlessness",
+              "discouragement",
+              "nothing"
+            ]
+          },
+          {
+            "lemmas": [
+              "sensation",
+              "sense"
+            ],
+            "semes": [
+              "process",
+              "stimulation",
+              "hearing",
+              "smell",
+              "external",
+              "awareness",
+              "organ",
+              "immediate"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "autumn",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "contemplation",
+          "country",
+          "dark",
+          "day",
+          "decay",
+          "depression",
+          "desolate",
+          "domain",
+          "draw",
+          "dream",
+          "dropping",
+          "dull",
+          "earthly",
+          "evening",
+          "eye",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hang",
+          "heart",
+          "heaven",
+          "hideous",
+          "horseback",
+          "house",
+          "iciness",
+          "image",
+          "imagination",
+          "insufferable",
+          "know",
+          "landscape",
+          "lapse",
+          "length",
+          "life",
+          "like",
+          "look",
+          "low",
+          "melancholy",
+          "mere",
+          "mind",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "scene",
+          "sedge",
+          "sentiment",
+          "shade",
+          "sicken",
+          "simple",
+          "singularly",
+          "sink",
+          "soul",
+          "soundless",
+          "spirit",
+          "stern",
+          "sublime",
+          "terrible",
+          "think",
+          "torture",
+          "tract",
+          "tree",
+          "trunk",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "view",
+          "wall",
+          "white",
+          "window",
+          "year"
+        ]
+      },
+      {
+        "label": "MEDIUM",
+        "threshold": 8.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "dreariness",
+              "dreary"
+            ],
+            "semes": [
+              "cheer",
+              "comfort",
+              "interest",
+              "gloomy",
+              "dismal",
+              "listlessness",
+              "discouragement",
+              "nothing"
+            ]
+          },
+          {
+            "lemmas": [
+              "sensation",
+              "sense"
+            ],
+            "semes": [
+              "process",
+              "stimulation",
+              "hearing",
+              "smell",
+              "external",
+              "awareness",
+              "organ",
+              "immediate"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "autumn",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "contemplation",
+          "country",
+          "dark",
+          "day",
+          "decay",
+          "depression",
+          "desolate",
+          "domain",
+          "draw",
+          "dream",
+          "dropping",
+          "dull",
+          "earthly",
+          "evening",
+          "eye",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hang",
+          "heart",
+          "heaven",
+          "hideous",
+          "horseback",
+          "house",
+          "iciness",
+          "image",
+          "imagination",
+          "insufferable",
+          "know",
+          "landscape",
+          "lapse",
+          "length",
+          "life",
+          "like",
+          "look",
+          "low",
+          "melancholy",
+          "mere",
+          "mind",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "scene",
+          "sedge",
+          "sentiment",
+          "shade",
+          "sicken",
+          "simple",
+          "singularly",
+          "sink",
+          "soul",
+          "soundless",
+          "spirit",
+          "stern",
+          "sublime",
+          "terrible",
+          "think",
+          "torture",
+          "tract",
+          "tree",
+          "trunk",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "view",
+          "wall",
+          "white",
+          "window",
+          "year"
+        ]
+      },
+      {
+        "label": "WEAK",
+        "threshold": 5.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "life",
+              "soul",
+              "spirit"
+            ],
+            "semes": [
+              "principle",
+              "animate",
+              "metabolism",
+              "spiritual",
+              "underlie",
+              "distinctive",
+              "organismic",
+              "capacity"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "sensation",
+              "sense"
+            ],
+            "semes": [
+              "organ",
+              "process",
+              "stimulation",
+              "specialize",
+              "sensory",
+              "hearing",
+              "smell",
+              "external"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "depression"
+            ],
+            "semes": [
+              "september",
+              "decline",
+              "period",
+              "season",
+              "between",
+              "summer",
+              "winter",
+              "comprise"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "sublime"
+            ],
+            "semes": [
+              "vapor",
+              "solid",
+              "directly",
+              "condense",
+              "particle",
+              "water",
+              "atmosphere",
+              "filmy"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "year"
+            ],
+            "semes": [
+              "require",
+              "solar",
+              "sun",
+              "mean",
+              "period",
+              "rotation",
+              "axis",
+              "hour"
+            ]
+          },
+          {
+            "lemmas": [
+              "dreariness",
+              "dreary"
+            ],
+            "semes": [
+              "cheer",
+              "comfort",
+              "interest",
+              "gloomy",
+              "dismal",
+              "listlessness",
+              "discouragement",
+              "nothing"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "heart"
+            ],
+            "semes": [
+              "vertebrate",
+              "organ",
+              "sensitive",
+              "nearly",
+              "arthropod",
+              "mollusk",
+              "surround",
+              "orbit"
+            ]
+          },
+          {
+            "lemmas": [
+              "hang",
+              "pause"
+            ],
+            "semes": [
+              "limit",
+              "suspension",
+              "fasten",
+              "allow",
+              "motion",
+              "neck",
+              "until",
+              "indicate"
+            ]
+          },
+          {
+            "lemmas": [
+              "look",
+              "view"
+            ],
+            "semes": [
+              "vision",
+              "examine",
+              "sure",
+              "range",
+              "inspection",
+              "exercise",
+              "power",
+              "care"
+            ]
+          },
+          {
+            "lemmas": [
+              "sedge",
+              "tree"
+            ],
+            "semes": [
+              "stem",
+              "branch",
+              "family",
+              "plant",
+              "cyperaceae",
+              "tuft",
+              "monocotyledonous",
+              "marsh"
+            ]
+          },
+          {
+            "lemmas": [
+              "tree",
+              "trunk"
+            ],
+            "semes": [
+              "stem",
+              "branch",
+              "main",
+              "woody",
+              "perennial",
+              "elongate",
+              "diagram",
+              "graph"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "contain",
+              "air",
+              "light",
+              "particle",
+              "water",
+              "atmosphere",
+              "filmy"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "bitter",
+          "bleak",
+          "building",
+          "compare",
+          "contemplation",
+          "country",
+          "dark",
+          "decay",
+          "desolate",
+          "domain",
+          "draw",
+          "dream",
+          "dropping",
+          "dull",
+          "earthly",
+          "evening",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "heaven",
+          "hideous",
+          "horseback",
+          "house",
+          "iciness",
+          "image",
+          "imagination",
+          "insufferable",
+          "know",
+          "landscape",
+          "lapse",
+          "length",
+          "like",
+          "low",
+          "melancholy",
+          "mere",
+          "mind",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "scene",
+          "sentiment",
+          "shade",
+          "sicken",
+          "simple",
+          "singularly",
+          "sink",
+          "soundless",
+          "stern",
+          "terrible",
+          "think",
+          "torture",
+          "tract",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "wall",
+          "white"
+        ]
+      }
+    ]
+  },
+  {
+    "config": "W1828",
+    "resources": [
+      "w1828"
+    ],
+    "tiers": [
+      {
+        "label": "STRONG",
+        "threshold": 10.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "autumn",
+              "low"
+            ],
+            "semes": [
+              "winter",
+              "season",
+              "respect",
+              "summer",
+              "sun",
+              "third",
+              "astronomically",
+              "equinox"
+            ]
+          },
+          {
+            "lemmas": [
+              "contemplation",
+              "view"
+            ],
+            "semes": [
+              "attention",
+              "examine",
+              "meditation",
+              "survey",
+              "continue",
+              "consider",
+              "subject",
+              "study"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "heart"
+            ],
+            "semes": [
+              "theheartof",
+              "city",
+              "town",
+              "artery",
+              "vein",
+              "kingdom",
+              "situate",
+              "blood"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "year"
+            ],
+            "semes": [
+              "hour",
+              "period",
+              "twelve",
+              "sun",
+              "revolution",
+              "minute",
+              "space",
+              "axis"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "sink"
+            ],
+            "semes": [
+              "perfect",
+              "thedecayof",
+              "gradually",
+              "less",
+              "gravity",
+              "towards",
+              "old",
+              "decline"
+            ]
+          },
+          {
+            "lemmas": [
+              "hideous",
+              "terrible"
+            ],
+            "semes": [
+              "terror",
+              "shock",
+              "adapt",
+              "frightful",
+              "dreadful",
+              "excite",
+              "deformity",
+              "ahideousmonster"
+            ]
+          },
+          {
+            "lemmas": [
+              "house",
+              "image"
+            ],
+            "semes": [
+              "worship",
+              "representation",
+              "habitation",
+              "edifice",
+              "material",
+              "wood",
+              "god",
+              "shed"
+            ]
+          },
+          {
+            "lemmas": [
+              "imagination",
+              "mind"
+            ],
+            "semes": [
+              "power",
+              "conceive",
+              "purpose",
+              "communicate",
+              "inclination",
+              "phrase",
+              "wish",
+              "amindto"
+            ]
+          },
+          {
+            "lemmas": [
+              "heart",
+              "life"
+            ],
+            "semes": [
+              "function",
+              "organ",
+              "theheartof",
+              "artery",
+              "vein",
+              "perform",
+              "during",
+              "strictly"
+            ]
+          },
+          {
+            "lemmas": [
+              "look",
+              "sentiment"
+            ],
+            "semes": [
+              "direct",
+              "notion",
+              "opinion",
+              "let",
+              "consider",
+              "every",
+              "man",
+              "lookat"
+            ]
+          },
+          {
+            "lemmas": [
+              "melancholy",
+              "sensation"
+            ],
+            "semes": [
+              "grief",
+              "gloomy",
+              "continuance",
+              "insanity",
+              "accompany",
+              "partial",
+              "extreme",
+              "habitual"
+            ]
+          },
+          {
+            "lemmas": [
+              "pass",
+              "year"
+            ],
+            "semes": [
+              "step",
+              "minute",
+              "fit",
+              "suffer",
+              "passus",
+              "pando",
+              "twelve",
+              "sun"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "sense"
+            ],
+            "semes": [
+              "perfect",
+              "thedecayof",
+              "faculty",
+              "gradually",
+              "towards",
+              "old",
+              "soundness",
+              "decline"
+            ]
+          },
+          {
+            "lemmas": [
+              "tree",
+              "trunk"
+            ],
+            "semes": [
+              "vegetable",
+              "stem",
+              "woody",
+              "root",
+              "highth",
+              "species",
+              "firm",
+              "springe"
+            ]
+          },
+          {
+            "lemmas": [
+              "house",
+              "wall"
+            ],
+            "semes": [
+              "defense",
+              "security",
+              "brick",
+              "intend",
+              "habitation",
+              "edifice",
+              "raise",
+              "material"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "dark",
+          "depression",
+          "desolate",
+          "domain",
+          "draw",
+          "dream",
+          "dreariness",
+          "dreary",
+          "dropping",
+          "dull",
+          "earthly",
+          "evening",
+          "eye",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hang",
+          "heaven",
+          "horseback",
+          "iciness",
+          "insufferable",
+          "know",
+          "landscape",
+          "lapse",
+          "length",
+          "like",
+          "mere",
+          "natural",
+          "opium",
+          "oppressively",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "scene",
+          "sedge",
+          "shade",
+          "sicken",
+          "simple",
+          "singularly",
+          "soul",
+          "soundless",
+          "spirit",
+          "stern",
+          "sublime",
+          "think",
+          "torture",
+          "tract",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "white",
+          "window"
+        ]
+      },
+      {
+        "label": "MEDIUM",
+        "threshold": 8.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "day",
+              "pass",
+              "year"
+            ],
+            "semes": [
+              "step",
+              "sun",
+              "hour",
+              "period",
+              "minute",
+              "fit",
+              "suffer",
+              "passus"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "feeling",
+              "sense"
+            ],
+            "semes": [
+              "perfect",
+              "thedecayof",
+              "faculty",
+              "perceive",
+              "body",
+              "gradually",
+              "towards",
+              "old"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "low"
+            ],
+            "semes": [
+              "winter",
+              "season",
+              "respect",
+              "summer",
+              "sun",
+              "third",
+              "astronomically",
+              "equinox"
+            ]
+          },
+          {
+            "lemmas": [
+              "contemplation",
+              "view"
+            ],
+            "semes": [
+              "attention",
+              "examine",
+              "meditation",
+              "survey",
+              "continue",
+              "consider",
+              "subject",
+              "study"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "heart"
+            ],
+            "semes": [
+              "theheartof",
+              "city",
+              "town",
+              "artery",
+              "vein",
+              "kingdom",
+              "situate",
+              "blood"
+            ]
+          },
+          {
+            "lemmas": [
+              "draw",
+              "length"
+            ],
+            "semes": [
+              "drag",
+              "end",
+              "force",
+              "pull",
+              "sword",
+              "line",
+              "thelengthof",
+              "apply"
+            ]
+          },
+          {
+            "lemmas": [
+              "hideous",
+              "terrible"
+            ],
+            "semes": [
+              "terror",
+              "shock",
+              "adapt",
+              "frightful",
+              "dreadful",
+              "excite",
+              "deformity",
+              "ahideousmonster"
+            ]
+          },
+          {
+            "lemmas": [
+              "house",
+              "image"
+            ],
+            "semes": [
+              "worship",
+              "representation",
+              "habitation",
+              "edifice",
+              "material",
+              "wood",
+              "god",
+              "shed"
+            ]
+          },
+          {
+            "lemmas": [
+              "imagination",
+              "mind"
+            ],
+            "semes": [
+              "power",
+              "conceive",
+              "purpose",
+              "communicate",
+              "inclination",
+              "phrase",
+              "wish",
+              "amindto"
+            ]
+          },
+          {
+            "lemmas": [
+              "heart",
+              "life"
+            ],
+            "semes": [
+              "function",
+              "organ",
+              "theheartof",
+              "artery",
+              "vein",
+              "perform",
+              "during",
+              "strictly"
+            ]
+          },
+          {
+            "lemmas": [
+              "look",
+              "view"
+            ],
+            "semes": [
+              "examine",
+              "direct",
+              "survey",
+              "attention",
+              "let",
+              "consider",
+              "aspect",
+              "subject"
+            ]
+          },
+          {
+            "lemmas": [
+              "melancholy",
+              "sensation"
+            ],
+            "semes": [
+              "grief",
+              "gloomy",
+              "continuance",
+              "insanity",
+              "accompany",
+              "partial",
+              "extreme",
+              "habitual"
+            ]
+          },
+          {
+            "lemmas": [
+              "natural",
+              "sentiment"
+            ],
+            "semes": [
+              "nature",
+              "body",
+              "opinion",
+              "motion",
+              "thus",
+              "law",
+              "formation",
+              "thenaturalgrowth"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "shade"
+            ],
+            "semes": [
+              "reference",
+              "interception",
+              "ray",
+              "light",
+              "sun",
+              "hence",
+              "axis",
+              "twenty"
+            ]
+          },
+          {
+            "lemmas": [
+              "sink",
+              "window"
+            ],
+            "semes": [
+              "sash",
+              "open",
+              "gravity",
+              "admission",
+              "shut",
+              "water",
+              "fall",
+              "light"
+            ]
+          },
+          {
+            "lemmas": [
+              "look",
+              "soul"
+            ],
+            "semes": [
+              "direct",
+              "man",
+              "let",
+              "subject",
+              "understand",
+              "lookat",
+              "conduct",
+              "manlookinto"
+            ]
+          },
+          {
+            "lemmas": [
+              "tree",
+              "trunk"
+            ],
+            "semes": [
+              "vegetable",
+              "stem",
+              "woody",
+              "root",
+              "highth",
+              "species",
+              "firm",
+              "springe"
+            ]
+          },
+          {
+            "lemmas": [
+              "house",
+              "wall"
+            ],
+            "semes": [
+              "defense",
+              "security",
+              "brick",
+              "intend",
+              "habitation",
+              "edifice",
+              "raise",
+              "material"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "bitter",
+          "bleak",
+          "building",
+          "cloud",
+          "compare",
+          "dark",
+          "depression",
+          "desolate",
+          "domain",
+          "dream",
+          "dreariness",
+          "dreary",
+          "dropping",
+          "dull",
+          "earthly",
+          "evening",
+          "eye",
+          "feature",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hang",
+          "heaven",
+          "horseback",
+          "iciness",
+          "insufferable",
+          "know",
+          "landscape",
+          "lapse",
+          "like",
+          "mere",
+          "opium",
+          "oppressively",
+          "pause",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "scene",
+          "sedge",
+          "sicken",
+          "simple",
+          "singularly",
+          "soundless",
+          "spirit",
+          "stern",
+          "sublime",
+          "think",
+          "torture",
+          "tract",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "utter",
+          "vacant",
+          "veil",
+          "white"
+        ]
+      },
+      {
+        "label": "WEAK",
+        "threshold": 5.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "heart",
+              "life",
+              "natural",
+              "sentiment"
+            ],
+            "semes": [
+              "function",
+              "organ",
+              "theheartof",
+              "motion",
+              "body",
+              "nature",
+              "plant",
+              "artery"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "day",
+              "year"
+            ],
+            "semes": [
+              "hour",
+              "period",
+              "sun",
+              "season",
+              "twelve",
+              "popular",
+              "revolution",
+              "minute"
+            ]
+          },
+          {
+            "lemmas": [
+              "contemplation",
+              "look",
+              "view"
+            ],
+            "semes": [
+              "attention",
+              "examine",
+              "consider",
+              "meditation",
+              "direct",
+              "survey",
+              "subject",
+              "continue"
+            ]
+          },
+          {
+            "lemmas": [
+              "house",
+              "image",
+              "sink"
+            ],
+            "semes": [
+              "worship",
+              "wood",
+              "representation",
+              "gravity",
+              "habitation",
+              "edifice",
+              "material",
+              "god"
+            ]
+          },
+          {
+            "lemmas": [
+              "imagination",
+              "mind",
+              "sense"
+            ],
+            "semes": [
+              "power",
+              "faculty",
+              "conceive",
+              "purpose",
+              "organ",
+              "understand",
+              "reason",
+              "communicate"
+            ]
+          },
+          {
+            "lemmas": [
+              "life",
+              "opium",
+              "trunk"
+            ],
+            "semes": [
+              "function",
+              "plant",
+              "perform",
+              "during",
+              "strictly",
+              "incision",
+              "organ",
+              "dead"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "pass",
+              "year"
+            ],
+            "semes": [
+              "step",
+              "sun",
+              "hour",
+              "period",
+              "minute",
+              "fit",
+              "suffer",
+              "passus"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "draw"
+            ],
+            "semes": [
+              "drag",
+              "apply",
+              "force",
+              "pull",
+              "sword",
+              "separate",
+              "themselves",
+              "solitary"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "opium"
+            ],
+            "semes": [
+              "sharp",
+              "incision",
+              "taste",
+              "acrid",
+              "flow",
+              "bite",
+              "wormwood",
+              "asbitterenmity"
+            ]
+          },
+          {
+            "lemmas": [
+              "bleak",
+              "feeling"
+            ],
+            "semes": [
+              "name",
+              "five",
+              "cold",
+              "expose",
+              "current",
+              "ableakhill",
+              "shore",
+              "cheerless"
+            ]
+          },
+          {
+            "lemmas": [
+              "building",
+              "house"
+            ],
+            "semes": [
+              "edifice",
+              "habitation",
+              "church",
+              "god",
+              "fabric",
+              "construct",
+              "convenience",
+              "shop"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "heaven"
+            ],
+            "semes": [
+              "collection",
+              "vapor",
+              "dust",
+              "atmosphere",
+              "air",
+              "visible",
+              "watery",
+              "particle"
+            ]
+          },
+          {
+            "lemmas": [
+              "compare",
+              "view"
+            ],
+            "semes": [
+              "examine",
+              "relation",
+              "survey",
+              "attention",
+              "together",
+              "ascertain",
+              "agreement",
+              "disagreement"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "heart"
+            ],
+            "semes": [
+              "theheartof",
+              "city",
+              "town",
+              "artery",
+              "vein",
+              "kingdom",
+              "situate",
+              "blood"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "melancholy"
+            ],
+            "semes": [
+              "gloomy",
+              "continuance",
+              "insanity",
+              "black",
+              "grief",
+              "partial",
+              "wholly",
+              "partially"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "sink"
+            ],
+            "semes": [
+              "perfect",
+              "thedecayof",
+              "gradually",
+              "less",
+              "gravity",
+              "towards",
+              "old",
+              "decline"
+            ]
+          },
+          {
+            "lemmas": [
+              "depression",
+              "sink"
+            ],
+            "semes": [
+              "gravity",
+              "fall",
+              "force",
+              "water",
+              "inwards",
+              "roughness",
+              "little",
+              "protuberance"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "usher"
+            ],
+            "semes": [
+              "officer",
+              "chamber",
+              "there",
+              "under",
+              "king",
+              "govern",
+              "sovereign",
+              "vast"
+            ]
+          },
+          {
+            "lemmas": [
+              "dream",
+              "usher"
+            ],
+            "semes": [
+              "sleep",
+              "series",
+              "officer",
+              "chamber",
+              "there",
+              "under",
+              "god",
+              "hence"
+            ]
+          },
+          {
+            "lemmas": [
+              "dreariness",
+              "dreary"
+            ],
+            "semes": [
+              "solitude",
+              "gloomy",
+              "dismalness",
+              "dismal",
+              "adrearywaste",
+              "drearyshades",
+              "sorrowful",
+              "asdrearyshrieks"
+            ]
+          },
+          {
+            "lemmas": [
+              "evening",
+              "low"
+            ],
+            "semes": [
+              "decline",
+              "respect",
+              "latter",
+              "sun",
+              "night",
+              "theeveningof",
+              "lowground",
+              "level"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "spirit"
+            ],
+            "semes": [
+              "ball",
+              "nearly",
+              "troop",
+              "genius",
+              "plural",
+              "vision",
+              "globe",
+              "orbit"
+            ]
+          },
+          {
+            "lemmas": [
+              "first",
+              "spirit"
+            ],
+            "semes": [
+              "troop",
+              "thefirstman",
+              "precede",
+              "genius",
+              "further",
+              "progression",
+              "foremost",
+              "march"
+            ]
+          },
+          {
+            "lemmas": [
+              "found",
+              "wall"
+            ],
+            "semes": [
+              "defense",
+              "security",
+              "raise",
+              "foundation",
+              "brick",
+              "build",
+              "superstructure",
+              "establish"
+            ]
+          },
+          {
+            "lemmas": [
+              "glimpse",
+              "shade"
+            ],
+            "semes": [
+              "light",
+              "interception",
+              "ray",
+              "reference",
+              "hence",
+              "flash",
+              "lightning",
+              "sglimpse"
+            ]
+          },
+          {
+            "lemmas": [
+              "hideous",
+              "terrible"
+            ],
+            "semes": [
+              "terror",
+              "shock",
+              "adapt",
+              "frightful",
+              "dreadful",
+              "excite",
+              "deformity",
+              "ahideousmonster"
+            ]
+          },
+          {
+            "lemmas": [
+              "know",
+              "sense"
+            ],
+            "semes": [
+              "faculty",
+              "perceive",
+              "understand",
+              "certainty",
+              "clearly",
+              "clear",
+              "actually",
+              "toknowa"
+            ]
+          },
+          {
+            "lemmas": [
+              "heaven",
+              "landscape"
+            ],
+            "semes": [
+              "mountain",
+              "reach",
+              "contain",
+              "Christian",
+              "omnipresent",
+              "jehovah",
+              "sensible",
+              "manifestation"
+            ]
+          },
+          {
+            "lemmas": [
+              "draw",
+              "length"
+            ],
+            "semes": [
+              "drag",
+              "end",
+              "force",
+              "pull",
+              "sword",
+              "line",
+              "thelengthof",
+              "apply"
+            ]
+          },
+          {
+            "lemmas": [
+              "like",
+              "scene"
+            ],
+            "semes": [
+              "event",
+              "exhibit",
+              "whole",
+              "probably",
+              "appearance",
+              "expect",
+              "believe",
+              "equal"
+            ]
+          },
+          {
+            "lemmas": [
+              "heaven",
+              "pervade"
+            ],
+            "semes": [
+              "class",
+              "fluid",
+              "universe",
+              "mean",
+              "pore",
+              "among",
+              "thus",
+              "Christian"
+            ]
+          },
+          {
+            "lemmas": [
+              "poetic",
+              "spirit"
+            ],
+            "semes": [
+              "poetry",
+              "genius",
+              "poetical",
+              "beauty",
+              "troop",
+              "possess",
+              "peculiar",
+              "composition"
+            ]
+          },
+          {
+            "lemmas": [
+              "properly",
+              "year"
+            ],
+            "semes": [
+              "twelve",
+              "strict",
+              "period",
+              "hour",
+              "minute",
+              "proper",
+              "fitly",
+              "suitably"
+            ]
+          },
+          {
+            "lemmas": [
+              "sedge",
+              "tree"
+            ],
+            "semes": [
+              "england",
+              "flag",
+              "woody",
+              "species",
+              "growe",
+              "highth",
+              "innew",
+              "coarse"
+            ]
+          },
+          {
+            "lemmas": [
+              "melancholy",
+              "sensation"
+            ],
+            "semes": [
+              "grief",
+              "gloomy",
+              "continuance",
+              "insanity",
+              "accompany",
+              "partial",
+              "extreme",
+              "habitual"
+            ]
+          },
+          {
+            "lemmas": [
+              "soul",
+              "spirit"
+            ],
+            "semes": [
+              "troop",
+              "genius",
+              "begin",
+              "man",
+              "rational",
+              "immortal",
+              "brute",
+              "enable"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "stern"
+            ],
+            "semes": [
+              "severe",
+              "sharp",
+              "cruel",
+              "bite",
+              "wormwood",
+              "asbitterenmity",
+              "Hebrew",
+              "austere"
+            ]
+          },
+          {
+            "lemmas": [
+              "sensation",
+              "torture"
+            ],
+            "semes": [
+              "pain",
+              "inflict",
+              "extreme",
+              "sensationis",
+              "exertion",
+              "central",
+              "sensorium",
+              "reside"
+            ]
+          },
+          {
+            "lemmas": [
+              "heaven",
+              "tract"
+            ],
+            "semes": [
+              "indefinite",
+              "applytractto",
+              "region",
+              "Christian",
+              "omnipresent",
+              "jehovah",
+              "sensible",
+              "manifestation"
+            ]
+          },
+          {
+            "lemmas": [
+              "vacant",
+              "window"
+            ],
+            "semes": [
+              "sash",
+              "air",
+              "open",
+              "empty",
+              "admission",
+              "shut",
+              "fill",
+              "void"
+            ]
+          }
+        ],
+        "isolates": [
+          "aught",
+          "desolate",
+          "dropping",
+          "dull",
+          "earthly",
+          "feature",
+          "gloom",
+          "goad",
+          "hang",
+          "horseback",
+          "iciness",
+          "insufferable",
+          "lapse",
+          "mere",
+          "oppressively",
+          "pause",
+          "pleasurable",
+          "rank",
+          "receive",
+          "reveller",
+          "say",
+          "sicken",
+          "simple",
+          "singularly",
+          "soundless",
+          "sublime",
+          "think",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "utter",
+          "veil",
+          "white"
+        ]
+      }
+    ]
+  },
+  {
+    "config": "WK+WN+MW",
+    "resources": [
+      "wk",
+      "wn",
+      "mw"
+    ],
+    "tiers": [
+      {
+        "label": "STRONG",
+        "threshold": 10.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "autumn",
+              "evening",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "season",
+              "month",
+              "september",
+              "hemisphere",
+              "afternoon",
+              "night",
+              "sun"
+            ]
+          },
+          {
+            "lemmas": [
+              "life",
+              "soul",
+              "spirit"
+            ],
+            "semes": [
+              "principle",
+              "animate",
+              "living",
+              "alive",
+              "metabolism",
+              "reproduction",
+              "course",
+              "essence"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "sense"
+            ],
+            "semes": [
+              "taste",
+              "expression",
+              "mean",
+              "word",
+              "acrid",
+              "basic",
+              "ale",
+              "coffee"
+            ]
+          },
+          {
+            "lemmas": [
+              "bleak",
+              "iciness"
+            ],
+            "semes": [
+              "cold",
+              "expose",
+              "coldness",
+              "lack",
+              "sweep",
+              "wind",
+              "unhappy",
+              "miserable"
+            ]
+          },
+          {
+            "lemmas": [
+              "building",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "glass",
+              "roof",
+              "shop",
+              "allow",
+              "build",
+              "air",
+              "contain"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "sublime"
+            ],
+            "semes": [
+              "solid",
+              "substance",
+              "gas",
+              "condense",
+              "vapor",
+              "container",
+              "change",
+              "particle"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "shade"
+            ],
+            "semes": [
+              "light",
+              "transmit",
+              "color",
+              "darkness",
+              "sunlight",
+              "block",
+              "absence",
+              "devoid"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "heaven"
+            ],
+            "semes": [
+              "rotation",
+              "axis",
+              "firmament",
+              "star",
+              "celestial",
+              "moon",
+              "god",
+              "equal"
+            ]
+          },
+          {
+            "lemmas": [
+              "depression",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "sun",
+              "last",
+              "several",
+              "economic",
+              "unemployment",
+              "trade",
+              "return"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "landscape"
+            ],
+            "semes": [
+              "scenery",
+              "set",
+              "define",
+              "territory",
+              "dominion",
+              "picture",
+              "depict",
+              "value"
+            ]
+          },
+          {
+            "lemmas": [
+              "draw",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "pull",
+              "glass",
+              "shop",
+              "allow",
+              "air",
+              "contain",
+              "transparent"
+            ]
+          },
+          {
+            "lemmas": [
+              "dreariness",
+              "dreary"
+            ],
+            "semes": [
+              "interest",
+              "cheer",
+              "comfort",
+              "dismal",
+              "listlessness",
+              "discouragement",
+              "gloomy",
+              "reflect"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "heart"
+            ],
+            "semes": [
+              "organ",
+              "muscular",
+              "blood",
+              "vertebrate",
+              "pump",
+              "hollow",
+              "rhythmic",
+              "contraction"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "hang"
+            ],
+            "semes": [
+              "suspend",
+              "particle",
+              "visible",
+              "water",
+              "dust",
+              "smoke",
+              "ice",
+              "air"
+            ]
+          },
+          {
+            "lemmas": [
+              "heaven",
+              "house"
+            ],
+            "semes": [
+              "celestial",
+              "firmament",
+              "sphere",
+              "apartment",
+              "quarter",
+              "sector",
+              "star",
+              "god"
+            ]
+          },
+          {
+            "lemmas": [
+              "imagination",
+              "think"
+            ],
+            "semes": [
+              "problem",
+              "power",
+              "deal",
+              "oneself",
+              "perceive",
+              "mentally",
+              "solution",
+              "create"
+            ]
+          },
+          {
+            "lemmas": [
+              "lapse",
+              "pause"
+            ],
+            "semes": [
+              "temporary",
+              "inattention",
+              "stop",
+              "break",
+              "air",
+              "increase",
+              "failure",
+              "slip"
+            ]
+          },
+          {
+            "lemmas": [
+              "look",
+              "think"
+            ],
+            "semes": [
+              "direct",
+              "oneself",
+              "try",
+              "solution",
+              "exercise",
+              "power",
+              "transitive",
+              "verb"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "mind"
+            ],
+            "semes": [
+              "element",
+              "set",
+              "function",
+              "dominion",
+              "capability",
+              "complex",
+              "value",
+              "define"
+            ]
+          },
+          {
+            "lemmas": [
+              "say",
+              "utter"
+            ],
+            "semes": [
+              "express",
+              "word",
+              "unconditional",
+              "verbally",
+              "total",
+              "voice",
+              "either",
+              "absolute"
+            ]
+          },
+          {
+            "lemmas": [
+              "scene",
+              "view"
+            ],
+            "semes": [
+              "play",
+              "visual",
+              "set",
+              "percept",
+              "situation",
+              "region",
+              "decoration",
+              "furnishing"
+            ]
+          },
+          {
+            "lemmas": [
+              "sedge",
+              "tree"
+            ],
+            "semes": [
+              "plant",
+              "stem",
+              "perennial",
+              "branch",
+              "grass",
+              "woody",
+              "leave",
+              "family"
+            ]
+          },
+          {
+            "lemmas": [
+              "sensation",
+              "tract"
+            ],
+            "semes": [
+              "stimulation",
+              "organ",
+              "awareness",
+              "excitement",
+              "booklet",
+              "system",
+              "together",
+              "body"
+            ]
+          },
+          {
+            "lemmas": [
+              "sink",
+              "sublime"
+            ],
+            "semes": [
+              "solid",
+              "substance",
+              "liquid",
+              "container",
+              "gas",
+              "condense",
+              "change",
+              "submerge"
+            ]
+          },
+          {
+            "lemmas": [
+              "tree",
+              "trunk"
+            ],
+            "semes": [
+              "branch",
+              "plant",
+              "stem",
+              "carry",
+              "woody",
+              "main",
+              "perennial",
+              "tall"
+            ]
+          },
+          {
+            "lemmas": [
+              "shade",
+              "white"
+            ],
+            "semes": [
+              "color",
+              "light",
+              "darkness",
+              "sunlight",
+              "block",
+              "unite",
+              "black",
+              "quality"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "compare",
+          "contemplation",
+          "country",
+          "decay",
+          "desolate",
+          "dream",
+          "dropping",
+          "dull",
+          "earthly",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hideous",
+          "horseback",
+          "image",
+          "insufferable",
+          "know",
+          "length",
+          "like",
+          "low",
+          "melancholy",
+          "mere",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "sentiment",
+          "sicken",
+          "simple",
+          "singularly",
+          "soundless",
+          "stern",
+          "terrible",
+          "torture",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "vacant",
+          "veil",
+          "wall"
+        ]
+      },
+      {
+        "label": "MEDIUM",
+        "threshold": 8.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "dark",
+              "shade",
+              "white"
+            ],
+            "semes": [
+              "light",
+              "color",
+              "transmit",
+              "darkness",
+              "reflect",
+              "sunlight",
+              "block",
+              "absence"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "heaven",
+              "year"
+            ],
+            "semes": [
+              "sun",
+              "period",
+              "rotation",
+              "axis",
+              "firmament",
+              "full",
+              "cycle",
+              "star"
+            ]
+          },
+          {
+            "lemmas": [
+              "depression",
+              "evening",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "afternoon",
+              "night",
+              "sun",
+              "last",
+              "several",
+              "economic",
+              "unemployment"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "eye",
+              "white"
+            ],
+            "semes": [
+              "light",
+              "transmit",
+              "color",
+              "reflect",
+              "organ",
+              "discernment",
+              "absence",
+              "devoid"
+            ]
+          },
+          {
+            "lemmas": [
+              "life",
+              "soul",
+              "spirit"
+            ],
+            "semes": [
+              "principle",
+              "animate",
+              "living",
+              "alive",
+              "metabolism",
+              "reproduction",
+              "course",
+              "essence"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "sensation",
+              "sense"
+            ],
+            "semes": [
+              "organ",
+              "stimulation",
+              "sight",
+              "hearing",
+              "smell",
+              "expression",
+              "awareness",
+              "external"
+            ]
+          },
+          {
+            "lemmas": [
+              "heart",
+              "sensation",
+              "tract"
+            ],
+            "semes": [
+              "organ",
+              "muscular",
+              "blood",
+              "stimulation",
+              "body",
+              "awareness",
+              "pump",
+              "hollow"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "heart"
+            ],
+            "semes": [
+              "month",
+              "september",
+              "hemisphere",
+              "muscular",
+              "blood",
+              "season",
+              "organ",
+              "october"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "sense"
+            ],
+            "semes": [
+              "taste",
+              "expression",
+              "mean",
+              "word",
+              "acrid",
+              "basic",
+              "ale",
+              "coffee"
+            ]
+          },
+          {
+            "lemmas": [
+              "bleak",
+              "iciness"
+            ],
+            "semes": [
+              "cold",
+              "expose",
+              "coldness",
+              "lack",
+              "sweep",
+              "wind",
+              "unhappy",
+              "miserable"
+            ]
+          },
+          {
+            "lemmas": [
+              "building",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "glass",
+              "roof",
+              "shop",
+              "allow",
+              "build",
+              "air",
+              "contain"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "sublime"
+            ],
+            "semes": [
+              "solid",
+              "substance",
+              "gas",
+              "condense",
+              "vapor",
+              "container",
+              "change",
+              "particle"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "landscape"
+            ],
+            "semes": [
+              "scenery",
+              "set",
+              "define",
+              "territory",
+              "dominion",
+              "picture",
+              "depict",
+              "value"
+            ]
+          },
+          {
+            "lemmas": [
+              "draw",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "pull",
+              "glass",
+              "shop",
+              "allow",
+              "air",
+              "contain",
+              "transparent"
+            ]
+          },
+          {
+            "lemmas": [
+              "dreariness",
+              "dreary"
+            ],
+            "semes": [
+              "interest",
+              "cheer",
+              "comfort",
+              "dismal",
+              "listlessness",
+              "discouragement",
+              "gloomy",
+              "reflect"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "hang"
+            ],
+            "semes": [
+              "suspend",
+              "particle",
+              "visible",
+              "water",
+              "dust",
+              "smoke",
+              "ice",
+              "air"
+            ]
+          },
+          {
+            "lemmas": [
+              "heaven",
+              "house"
+            ],
+            "semes": [
+              "celestial",
+              "firmament",
+              "sphere",
+              "apartment",
+              "quarter",
+              "sector",
+              "star",
+              "god"
+            ]
+          },
+          {
+            "lemmas": [
+              "image",
+              "sentiment"
+            ],
+            "semes": [
+              "judgment",
+              "copy",
+              "representation",
+              "optical",
+              "tender",
+              "device",
+              "visual",
+              "art"
+            ]
+          },
+          {
+            "lemmas": [
+              "imagination",
+              "think"
+            ],
+            "semes": [
+              "problem",
+              "power",
+              "deal",
+              "oneself",
+              "perceive",
+              "mentally",
+              "solution",
+              "create"
+            ]
+          },
+          {
+            "lemmas": [
+              "lapse",
+              "pause"
+            ],
+            "semes": [
+              "temporary",
+              "inattention",
+              "stop",
+              "break",
+              "air",
+              "increase",
+              "failure",
+              "slip"
+            ]
+          },
+          {
+            "lemmas": [
+              "evening",
+              "length"
+            ],
+            "semes": [
+              "end",
+              "afternoon",
+              "between",
+              "night",
+              "latter",
+              "bedtime",
+              "period",
+              "until"
+            ]
+          },
+          {
+            "lemmas": [
+              "look",
+              "think"
+            ],
+            "semes": [
+              "direct",
+              "oneself",
+              "try",
+              "solution",
+              "exercise",
+              "power",
+              "transitive",
+              "verb"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "mind"
+            ],
+            "semes": [
+              "element",
+              "set",
+              "function",
+              "dominion",
+              "capability",
+              "complex",
+              "value",
+              "define"
+            ]
+          },
+          {
+            "lemmas": [
+              "say",
+              "utter"
+            ],
+            "semes": [
+              "express",
+              "word",
+              "unconditional",
+              "verbally",
+              "total",
+              "voice",
+              "either",
+              "absolute"
+            ]
+          },
+          {
+            "lemmas": [
+              "scene",
+              "view"
+            ],
+            "semes": [
+              "play",
+              "visual",
+              "set",
+              "percept",
+              "situation",
+              "region",
+              "decoration",
+              "furnishing"
+            ]
+          },
+          {
+            "lemmas": [
+              "sedge",
+              "tree"
+            ],
+            "semes": [
+              "plant",
+              "stem",
+              "perennial",
+              "branch",
+              "grass",
+              "woody",
+              "leave",
+              "family"
+            ]
+          },
+          {
+            "lemmas": [
+              "sink",
+              "sublime"
+            ],
+            "semes": [
+              "solid",
+              "substance",
+              "liquid",
+              "container",
+              "gas",
+              "condense",
+              "change",
+              "submerge"
+            ]
+          },
+          {
+            "lemmas": [
+              "tree",
+              "trunk"
+            ],
+            "semes": [
+              "branch",
+              "plant",
+              "stem",
+              "carry",
+              "woody",
+              "main",
+              "perennial",
+              "tall"
+            ]
+          }
+        ],
+        "isolates": [
+          "alone",
+          "aught",
+          "compare",
+          "contemplation",
+          "country",
+          "decay",
+          "desolate",
+          "dream",
+          "dropping",
+          "dull",
+          "earthly",
+          "feature",
+          "feeling",
+          "first",
+          "found",
+          "glimpse",
+          "gloom",
+          "goad",
+          "hideous",
+          "horseback",
+          "insufferable",
+          "know",
+          "like",
+          "low",
+          "melancholy",
+          "mere",
+          "natural",
+          "opium",
+          "oppressively",
+          "pass",
+          "pervade",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "rank",
+          "receive",
+          "reveller",
+          "sicken",
+          "simple",
+          "singularly",
+          "soundless",
+          "stern",
+          "terrible",
+          "torture",
+          "unnerved",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "vacant",
+          "veil",
+          "wall"
+        ]
+      },
+      {
+        "label": "WEAK",
+        "threshold": 5.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "autumn",
+              "day",
+              "depression",
+              "evening",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "season",
+              "night",
+              "hour",
+              "month",
+              "september",
+              "hemisphere",
+              "rotation"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "eye",
+              "shade",
+              "white",
+              "window"
+            ],
+            "semes": [
+              "light",
+              "color",
+              "open",
+              "glass",
+              "transmit",
+              "shop",
+              "darkness",
+              "allow"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "dark",
+              "dreariness",
+              "dreary"
+            ],
+            "semes": [
+              "light",
+              "transmit",
+              "reflect",
+              "lack",
+              "exclusive",
+              "anyone",
+              "else",
+              "nothing"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "domain",
+              "heaven",
+              "year"
+            ],
+            "semes": [
+              "sun",
+              "indefinite",
+              "firmament",
+              "set",
+              "celestial",
+              "period",
+              "complete",
+              "territory"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "dreariness",
+              "dreary",
+              "simple"
+            ],
+            "semes": [
+              "lack",
+              "nothing",
+              "exclusive",
+              "anyone",
+              "else",
+              "interest",
+              "cheer",
+              "comfort"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "heart",
+              "sensation",
+              "tract"
+            ],
+            "semes": [
+              "organ",
+              "muscular",
+              "blood",
+              "stimulation",
+              "body",
+              "vertebrate",
+              "awareness",
+              "pump"
+            ]
+          },
+          {
+            "lemmas": [
+              "building",
+              "white",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "glass",
+              "roof",
+              "shop",
+              "light",
+              "color",
+              "allow",
+              "build"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "domain",
+              "landscape"
+            ],
+            "semes": [
+              "scenery",
+              "territory",
+              "indefinite",
+              "set",
+              "define",
+              "occupation",
+              "suitability",
+              "population"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "domain",
+              "mere"
+            ],
+            "semes": [
+              "light",
+              "transmit",
+              "absolute",
+              "value",
+              "set",
+              "dominion",
+              "pure",
+              "admixture"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "desolate",
+              "sedge"
+            ],
+            "semes": [
+              "leave",
+              "plant",
+              "stem",
+              "month",
+              "september",
+              "hemisphere",
+              "grass",
+              "season"
+            ]
+          },
+          {
+            "lemmas": [
+              "draw",
+              "trunk",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "pull",
+              "glass",
+              "carry",
+              "shop",
+              "receptacle",
+              "allow",
+              "store"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "glimpse",
+              "look"
+            ],
+            "semes": [
+              "briefly",
+              "incompletely",
+              "visually",
+              "organ",
+              "direct",
+              "perceive",
+              "light",
+              "brief"
+            ]
+          },
+          {
+            "lemmas": [
+              "imagination",
+              "look",
+              "think"
+            ],
+            "semes": [
+              "power",
+              "problem",
+              "perceive",
+              "deal",
+              "direct",
+              "oneself",
+              "mentally",
+              "try"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "know",
+              "sense"
+            ],
+            "semes": [
+              "sight",
+              "mean",
+              "expression",
+              "organ",
+              "word",
+              "truth",
+              "factuality",
+              "aware"
+            ]
+          },
+          {
+            "lemmas": [
+              "life",
+              "soul",
+              "spirit"
+            ],
+            "semes": [
+              "principle",
+              "animate",
+              "living",
+              "alive",
+              "metabolism",
+              "reproduction",
+              "course",
+              "essence"
+            ]
+          },
+          {
+            "lemmas": [
+              "image",
+              "scene",
+              "view"
+            ],
+            "semes": [
+              "visual",
+              "play",
+              "copy",
+              "representation",
+              "optical",
+              "device",
+              "set",
+              "percept"
+            ]
+          },
+          {
+            "lemmas": [
+              "dreariness",
+              "feature",
+              "sensation"
+            ],
+            "semes": [
+              "interest",
+              "stimulation",
+              "awareness",
+              "item",
+              "excitement",
+              "perception",
+              "face",
+              "distinguish"
+            ]
+          },
+          {
+            "lemmas": [
+              "say",
+              "singularly",
+              "utter"
+            ],
+            "semes": [
+              "singular",
+              "word",
+              "express",
+              "instance",
+              "unconditional",
+              "verbally",
+              "total",
+              "voice"
+            ]
+          },
+          {
+            "lemmas": [
+              "sedge",
+              "tree",
+              "trunk"
+            ],
+            "semes": [
+              "plant",
+              "stem",
+              "perennial",
+              "branch",
+              "carry",
+              "grass",
+              "woody",
+              "leave"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "opium"
+            ],
+            "semes": [
+              "poppy",
+              "addictive",
+              "narcotic",
+              "seed",
+              "exclusive",
+              "anyone",
+              "else",
+              "drug"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "feature"
+            ],
+            "semes": [
+              "taste",
+              "acrid",
+              "basic",
+              "ale",
+              "coffee",
+              "item",
+              "mouth",
+              "face"
+            ]
+          },
+          {
+            "lemmas": [
+              "bleak",
+              "dreary"
+            ],
+            "semes": [
+              "expose",
+              "cold",
+              "cheerless",
+              "lack",
+              "sweep",
+              "wind",
+              "unhappy",
+              "miserable"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "hang"
+            ],
+            "semes": [
+              "suspend",
+              "particle",
+              "visible",
+              "water",
+              "dust",
+              "smoke",
+              "ice",
+              "air"
+            ]
+          },
+          {
+            "lemmas": [
+              "compare",
+              "length"
+            ],
+            "semes": [
+              "end",
+              "difference",
+              "comparison",
+              "between",
+              "horse",
+              "quality",
+              "assess",
+              "similarity"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "unnerved"
+            ],
+            "semes": [
+              "strength",
+              "deprive",
+              "courage",
+              "gradually",
+              "process",
+              "rot",
+              "organic",
+              "matter"
+            ]
+          },
+          {
+            "lemmas": [
+              "dream",
+              "pause"
+            ],
+            "semes": [
+              "sleep",
+              "while",
+              "during",
+              "temporary",
+              "stop",
+              "series",
+              "emotion",
+              "occur"
+            ]
+          },
+          {
+            "lemmas": [
+              "dull",
+              "utter"
+            ],
+            "semes": [
+              "sound",
+              "brightness",
+              "unconditional",
+              "noise",
+              "total",
+              "absolute",
+              "lack",
+              "shiny"
+            ]
+          },
+          {
+            "lemmas": [
+              "earthly",
+              "poetic"
+            ],
+            "semes": [
+              "poetry",
+              "characteristic",
+              "belonging",
+              "poet",
+              "romantic",
+              "negative",
+              "contruction",
+              "emphasis"
+            ]
+          },
+          {
+            "lemmas": [
+              "dream",
+              "first"
+            ],
+            "semes": [
+              "series",
+              "sleep",
+              "while",
+              "during",
+              "emotion",
+              "occur",
+              "visionary",
+              "scheme"
+            ]
+          },
+          {
+            "lemmas": [
+              "found",
+              "poetic"
+            ],
+            "semes": [
+              "poetry",
+              "food",
+              "lodging",
+              "poet",
+              "example",
+              "romantic",
+              "add",
+              "characteristic"
+            ]
+          },
+          {
+            "lemmas": [
+              "gloom",
+              "like"
+            ],
+            "semes": [
+              "feel",
+              "sullen",
+              "enjoy",
+              "favor",
+              "despondent",
+              "toward",
+              "cloudiness",
+              "heaviness"
+            ]
+          },
+          {
+            "lemmas": [
+              "heart",
+              "sentiment"
+            ],
+            "semes": [
+              "muscular",
+              "blood",
+              "judgment",
+              "organ",
+              "pump",
+              "hollow",
+              "rhythmic",
+              "contraction"
+            ]
+          },
+          {
+            "lemmas": [
+              "horseback",
+              "length"
+            ],
+            "semes": [
+              "horse",
+              "end",
+              "back",
+              "ridge",
+              "between",
+              "sand",
+              "gravel",
+              "boulder"
+            ]
+          },
+          {
+            "lemmas": [
+              "house",
+              "rank"
+            ],
+            "semes": [
+              "strong",
+              "apartment",
+              "quarter",
+              "sector",
+              "vigour",
+              "rapidity",
+              "hence",
+              "coarse"
+            ]
+          },
+          {
+            "lemmas": [
+              "iciness",
+              "trunk"
+            ],
+            "semes": [
+              "carry",
+              "coldness",
+              "suitcase",
+              "chest",
+              "lid",
+              "handle",
+              "cold",
+              "receptacle"
+            ]
+          },
+          {
+            "lemmas": [
+              "found",
+              "image"
+            ],
+            "semes": [
+              "food",
+              "lodging",
+              "copy",
+              "representation",
+              "optical",
+              "device",
+              "visual",
+              "present"
+            ]
+          },
+          {
+            "lemmas": [
+              "lapse",
+              "pause"
+            ],
+            "semes": [
+              "temporary",
+              "inattention",
+              "stop",
+              "break",
+              "air",
+              "increase",
+              "failure",
+              "slip"
+            ]
+          },
+          {
+            "lemmas": [
+              "length",
+              "low"
+            ],
+            "semes": [
+              "normal",
+              "end",
+              "elevation",
+              "level",
+              "situate",
+              "horse",
+              "measure",
+              "sea"
+            ]
+          },
+          {
+            "lemmas": [
+              "dreary",
+              "melancholy"
+            ],
+            "semes": [
+              "sadness",
+              "dejection",
+              "gloomy",
+              "drab",
+              "colorless",
+              "grievous",
+              "dire",
+              "appall"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "mind"
+            ],
+            "semes": [
+              "element",
+              "set",
+              "function",
+              "dominion",
+              "capability",
+              "complex",
+              "value",
+              "define"
+            ]
+          },
+          {
+            "lemmas": [
+              "natural",
+              "stern"
+            ],
+            "semes": [
+              "nature",
+              "innate",
+              "learned",
+              "hardness",
+              "severity",
+              "acquire",
+              "base",
+              "crap"
+            ]
+          },
+          {
+            "lemmas": [
+              "melancholy",
+              "pass"
+            ],
+            "semes": [
+              "sadness",
+              "past",
+              "ball",
+              "four",
+              "bile",
+              "formerly",
+              "cardinal",
+              "humour"
+            ]
+          },
+          {
+            "lemmas": [
+              "pleasurable",
+              "torture"
+            ],
+            "semes": [
+              "pain",
+              "pleasure",
+              "anguish",
+              "infliction",
+              "technique",
+              "suffer",
+              "punish",
+              "afford"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "receive"
+            ],
+            "semes": [
+              "organ",
+              "visually",
+              "specify",
+              "sight",
+              "good",
+              "light",
+              "surrounding",
+              "iris"
+            ]
+          },
+          {
+            "lemmas": [
+              "say",
+              "sentiment"
+            ],
+            "semes": [
+              "judgment",
+              "express",
+              "tender",
+              "voice",
+              "belief",
+              "word",
+              "delete",
+              "passive"
+            ]
+          },
+          {
+            "lemmas": [
+              "sink",
+              "sublime"
+            ],
+            "semes": [
+              "solid",
+              "substance",
+              "liquid",
+              "container",
+              "gas",
+              "condense",
+              "change",
+              "submerge"
+            ]
+          },
+          {
+            "lemmas": [
+              "soundless",
+              "utter"
+            ],
+            "semes": [
+              "sound",
+              "unconditional",
+              "total",
+              "absolute",
+              "fathom",
+              "incapable",
+              "unfathomable",
+              "silent"
+            ]
+          },
+          {
+            "lemmas": [
+              "terrible",
+              "utter"
+            ],
+            "semes": [
+              "terror",
+              "fear",
+              "unconditional",
+              "degree",
+              "total",
+              "absolute",
+              "sound",
+              "extreme"
+            ]
+          },
+          {
+            "lemmas": [
+              "feature",
+              "vacant"
+            ],
+            "semes": [
+              "item",
+              "occupant",
+              "incumbent",
+              "content",
+              "intelligence",
+              "face",
+              "occupy",
+              "appearance"
+            ]
+          },
+          {
+            "lemmas": [
+              "opium",
+              "veil"
+            ],
+            "semes": [
+              "poppy",
+              "addictive",
+              "narcotic",
+              "seed",
+              "head",
+              "covering",
+              "face",
+              "drug"
+            ]
+          },
+          {
+            "lemmas": [
+              "house",
+              "wall"
+            ],
+            "semes": [
+              "apartment",
+              "quarter",
+              "sector",
+              "defense",
+              "enclose",
+              "masonry",
+              "estate",
+              "serve"
+            ]
+          }
+        ],
+        "isolates": [
+          "aught",
+          "contemplation",
+          "dropping",
+          "feeling",
+          "goad",
+          "hideous",
+          "insufferable",
+          "oppressively",
+          "pervade",
+          "properly",
+          "reveller",
+          "sicken",
+          "unredeemed",
+          "unrelieved",
+          "usher"
+        ]
+      }
+    ]
+  },
+  {
+    "config": "WK+WN+MW+W1828",
+    "resources": [
+      "wk",
+      "wn",
+      "mw",
+      "w1828"
+    ],
+    "tiers": [
+      {
+        "label": "STRONG",
+        "threshold": 10.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "autumn",
+              "day",
+              "evening",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "season",
+              "hour",
+              "sun",
+              "night",
+              "september",
+              "axis",
+              "month"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "day",
+              "heaven",
+              "pass"
+            ],
+            "semes": [
+              "god",
+              "collection",
+              "abode",
+              "particle",
+              "axis",
+              "visible",
+              "atmosphere",
+              "suspend"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "day",
+              "low",
+              "pass"
+            ],
+            "semes": [
+              "season",
+              "september",
+              "axis",
+              "level",
+              "normal",
+              "sun",
+              "winter",
+              "october"
+            ]
+          },
+          {
+            "lemmas": [
+              "building",
+              "house",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "glass",
+              "sash",
+              "contain",
+              "shop",
+              "construct",
+              "admission",
+              "shut"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "heaven",
+              "landscape"
+            ],
+            "semes": [
+              "god",
+              "scenery",
+              "abode",
+              "territory",
+              "indefinite",
+              "picture",
+              "city",
+              "angel"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "mind",
+              "sense"
+            ],
+            "semes": [
+              "faculty",
+              "gradually",
+              "strength",
+              "perfect",
+              "thedecayof",
+              "reason",
+              "external",
+              "health"
+            ]
+          },
+          {
+            "lemmas": [
+              "depression",
+              "evening",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "night",
+              "latter",
+              "afternoon",
+              "sun",
+              "return",
+              "revolution",
+              "hour"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "domain",
+              "landscape"
+            ],
+            "semes": [
+              "territory",
+              "scenery",
+              "picture",
+              "city",
+              "dominion",
+              "indefinite",
+              "define",
+              "occupation"
+            ]
+          },
+          {
+            "lemmas": [
+              "feature",
+              "trunk",
+              "veil"
+            ],
+            "semes": [
+              "face",
+              "stem",
+              "carry",
+              "head",
+              "wear",
+              "covering",
+              "main",
+              "full"
+            ]
+          },
+          {
+            "lemmas": [
+              "feeling",
+              "sensation",
+              "sense"
+            ],
+            "semes": [
+              "external",
+              "awareness",
+              "stimulation",
+              "perception",
+              "touch",
+              "hearing",
+              "organ",
+              "sensibility"
+            ]
+          },
+          {
+            "lemmas": [
+              "heart",
+              "sentiment",
+              "trunk"
+            ],
+            "semes": [
+              "blood",
+              "muscular",
+              "carry",
+              "stem",
+              "theheartof",
+              "organ",
+              "contraction",
+              "judgment"
+            ]
+          },
+          {
+            "lemmas": [
+              "imagination",
+              "mind",
+              "sense"
+            ],
+            "semes": [
+              "faculty",
+              "power",
+              "perceive",
+              "reason",
+              "external",
+              "deal",
+              "capability",
+              "complex"
+            ]
+          },
+          {
+            "lemmas": [
+              "look",
+              "pervade",
+              "sentiment"
+            ],
+            "semes": [
+              "direct",
+              "class",
+              "every",
+              "judgment",
+              "permeate",
+              "fluid",
+              "pore",
+              "tender"
+            ]
+          },
+          {
+            "lemmas": [
+              "heart",
+              "life",
+              "natural"
+            ],
+            "semes": [
+              "organ",
+              "muscular",
+              "blood",
+              "theheartof",
+              "alive",
+              "metabolism",
+              "living",
+              "function"
+            ]
+          },
+          {
+            "lemmas": [
+              "look",
+              "sentiment",
+              "think"
+            ],
+            "semes": [
+              "direct",
+              "judgment",
+              "opinion",
+              "tender",
+              "oneself",
+              "ithinkit",
+              "reason",
+              "try"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "heart",
+              "tract"
+            ],
+            "semes": [
+              "organ",
+              "muscular",
+              "indefinite",
+              "blood",
+              "theheartof",
+              "city",
+              "contraction",
+              "body"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "shade",
+              "white"
+            ],
+            "semes": [
+              "color",
+              "light",
+              "transmit",
+              "ray",
+              "darkness",
+              "reflect",
+              "sunlight",
+              "block"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "simple"
+            ],
+            "semes": [
+              "else",
+              "lack",
+              "exclusive",
+              "anyone",
+              "separate",
+              "apply",
+              "nothing",
+              "anything"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "opium"
+            ],
+            "semes": [
+              "poppy",
+              "taste",
+              "acrid",
+              "dry",
+              "addictive",
+              "narcotic",
+              "papaver",
+              "somniferum"
+            ]
+          },
+          {
+            "lemmas": [
+              "bleak",
+              "dreary"
+            ],
+            "semes": [
+              "expose",
+              "cheerless",
+              "name",
+              "cold",
+              "barren",
+              "dismal",
+              "gloomy",
+              "nothing"
+            ]
+          },
+          {
+            "lemmas": [
+              "compare",
+              "view"
+            ],
+            "semes": [
+              "examine",
+              "relation",
+              "difference",
+              "comparison",
+              "discover",
+              "survey",
+              "visual",
+              "sight"
+            ]
+          },
+          {
+            "lemmas": [
+              "contemplation",
+              "view"
+            ],
+            "semes": [
+              "attention",
+              "examine",
+              "meditation",
+              "survey",
+              "continue",
+              "visual",
+              "sight",
+              "aspect"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "soul"
+            ],
+            "semes": [
+              "transmit",
+              "light",
+              "spiritual",
+              "principle",
+              "essence",
+              "immaterial",
+              "actuate",
+              "render"
+            ]
+          },
+          {
+            "lemmas": [
+              "draw",
+              "length"
+            ],
+            "semes": [
+              "pull",
+              "end",
+              "drag",
+              "line",
+              "force",
+              "sword",
+              "thelengthof",
+              "apply"
+            ]
+          },
+          {
+            "lemmas": [
+              "dream",
+              "life"
+            ],
+            "semes": [
+              "sleep",
+              "series",
+              "during",
+              "alive",
+              "metabolism",
+              "living",
+              "function",
+              "occur"
+            ]
+          },
+          {
+            "lemmas": [
+              "dreariness",
+              "dreary"
+            ],
+            "semes": [
+              "gloomy",
+              "dismal",
+              "interest",
+              "cheer",
+              "comfort",
+              "listlessness",
+              "discouragement",
+              "solitude"
+            ]
+          },
+          {
+            "lemmas": [
+              "dropping",
+              "sink"
+            ],
+            "semes": [
+              "drop",
+              "submerge",
+              "fall",
+              "gravity",
+              "collapse",
+              "liquid",
+              "descend",
+              "substance"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "spirit"
+            ],
+            "semes": [
+              "nearly",
+              "organ",
+              "principle",
+              "sight",
+              "orbit",
+              "vital",
+              "visually",
+              "ball"
+            ]
+          },
+          {
+            "lemmas": [
+              "found",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "glass",
+              "sash",
+              "admission",
+              "shut",
+              "air",
+              "allow",
+              "shop"
+            ]
+          },
+          {
+            "lemmas": [
+              "gloom",
+              "shade"
+            ],
+            "semes": [
+              "darkness",
+              "ray",
+              "obscurity",
+              "light",
+              "color",
+              "cloudiness",
+              "heaviness",
+              "sorrow"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "hang"
+            ],
+            "semes": [
+              "suspend",
+              "collection",
+              "particle",
+              "visible",
+              "dust",
+              "fasten",
+              "vapor",
+              "smoke"
+            ]
+          },
+          {
+            "lemmas": [
+              "hideous",
+              "terrible"
+            ],
+            "semes": [
+              "terror",
+              "offensive",
+              "shock",
+              "dreadful",
+              "morally",
+              "ugly",
+              "dread",
+              "adapt"
+            ]
+          },
+          {
+            "lemmas": [
+              "bleak",
+              "iciness"
+            ],
+            "semes": [
+              "cold",
+              "expose",
+              "name",
+              "coldness",
+              "icy",
+              "cheerless",
+              "barren",
+              "ice"
+            ]
+          },
+          {
+            "lemmas": [
+              "image",
+              "sublime"
+            ],
+            "semes": [
+              "solid",
+              "substance",
+              "container",
+              "gas",
+              "condense",
+              "change",
+              "representation",
+              "then"
+            ]
+          },
+          {
+            "lemmas": [
+              "know",
+              "sense"
+            ],
+            "semes": [
+              "truth",
+              "external",
+              "faculty",
+              "factuality",
+              "aware",
+              "perceive",
+              "mean",
+              "understand"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "lapse"
+            ],
+            "semes": [
+              "season",
+              "september",
+              "october",
+              "november",
+              "hemisphere",
+              "month",
+              "winter",
+              "third"
+            ]
+          },
+          {
+            "lemmas": [
+              "like",
+              "mind"
+            ],
+            "semes": [
+              "reason",
+              "feel",
+              "enjoy",
+              "favor",
+              "capability",
+              "complex",
+              "toward",
+              "conscious"
+            ]
+          },
+          {
+            "lemmas": [
+              "melancholy",
+              "sensation"
+            ],
+            "semes": [
+              "stimulation",
+              "gloomy",
+              "sadness",
+              "grief",
+              "perception",
+              "awareness",
+              "bile",
+              "formerly"
+            ]
+          },
+          {
+            "lemmas": [
+              "pause",
+              "say"
+            ],
+            "semes": [
+              "temporary",
+              "stop",
+              "cessation",
+              "verse",
+              "voice",
+              "declare",
+              "rest",
+              "there"
+            ]
+          },
+          {
+            "lemmas": [
+              "rank",
+              "sedge"
+            ],
+            "semes": [
+              "grass",
+              "growe",
+              "stem",
+              "plant",
+              "coarse",
+              "family",
+              "strong",
+              "vigour"
+            ]
+          },
+          {
+            "lemmas": [
+              "scene",
+              "view"
+            ],
+            "semes": [
+              "play",
+              "examine",
+              "visual",
+              "stage",
+              "survey",
+              "percept",
+              "exhibit",
+              "situation"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "stern"
+            ],
+            "semes": [
+              "taste",
+              "severe",
+              "acrid",
+              "harsh",
+              "severity",
+              "sharp",
+              "basic",
+              "ale"
+            ]
+          },
+          {
+            "lemmas": [
+              "sensation",
+              "torture"
+            ],
+            "semes": [
+              "pain",
+              "anguish",
+              "inflict",
+              "stimulation",
+              "perception",
+              "awareness",
+              "infliction",
+              "technique"
+            ]
+          },
+          {
+            "lemmas": [
+              "sink",
+              "tree"
+            ],
+            "semes": [
+              "woody",
+              "branch",
+              "submerge",
+              "shrub",
+              "liquid",
+              "perennial",
+              "plant",
+              "stem"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "unnerved"
+            ],
+            "semes": [
+              "strength",
+              "gradually",
+              "deprive",
+              "perfect",
+              "thedecayof",
+              "courage",
+              "health",
+              "decline"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "utter"
+            ],
+            "semes": [
+              "absolute",
+              "dominion",
+              "territory",
+              "unconditional",
+              "utmost",
+              "set",
+              "total",
+              "value"
+            ]
+          },
+          {
+            "lemmas": [
+              "found",
+              "wall"
+            ],
+            "semes": [
+              "defense",
+              "security",
+              "raise",
+              "exterior",
+              "enclose",
+              "masonry",
+              "foundation",
+              "city"
+            ]
+          }
+        ],
+        "isolates": [
+          "aught",
+          "desolate",
+          "dull",
+          "earthly",
+          "first",
+          "glimpse",
+          "goad",
+          "horseback",
+          "insufferable",
+          "mere",
+          "oppressively",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "receive",
+          "reveller",
+          "sicken",
+          "singularly",
+          "soundless",
+          "unredeemed",
+          "unrelieved",
+          "usher",
+          "vacant"
+        ]
+      },
+      {
+        "label": "MEDIUM",
+        "threshold": 8.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "autumn",
+              "day",
+              "depression",
+              "life",
+              "low"
+            ],
+            "semes": [
+              "winter",
+              "period",
+              "season",
+              "level",
+              "september",
+              "axis",
+              "normal",
+              "october"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "day",
+              "life",
+              "low",
+              "pass"
+            ],
+            "semes": [
+              "winter",
+              "season",
+              "september",
+              "axis",
+              "level",
+              "normal",
+              "sun",
+              "october"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "day",
+              "evening",
+              "length"
+            ],
+            "semes": [
+              "end",
+              "period",
+              "season",
+              "night",
+              "between",
+              "september",
+              "axis",
+              "hour"
+            ]
+          },
+          {
+            "lemmas": [
+              "building",
+              "house",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "glass",
+              "sash",
+              "contain",
+              "shop",
+              "construct",
+              "admission",
+              "shut"
+            ]
+          },
+          {
+            "lemmas": [
+              "compare",
+              "look",
+              "view"
+            ],
+            "semes": [
+              "examine",
+              "direct",
+              "relation",
+              "attention",
+              "difference",
+              "comparison",
+              "discover",
+              "survey"
+            ]
+          },
+          {
+            "lemmas": [
+              "contemplation",
+              "look",
+              "view"
+            ],
+            "semes": [
+              "examine",
+              "attention",
+              "direct",
+              "meditation",
+              "survey",
+              "aspect",
+              "consider",
+              "subject"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "heaven",
+              "landscape"
+            ],
+            "semes": [
+              "god",
+              "scenery",
+              "abode",
+              "territory",
+              "indefinite",
+              "picture",
+              "city",
+              "angel"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "decay",
+              "evening"
+            ],
+            "semes": [
+              "season",
+              "september",
+              "decline",
+              "gradually",
+              "night",
+              "latter",
+              "october",
+              "november"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "domain",
+              "usher"
+            ],
+            "semes": [
+              "territory",
+              "chamber",
+              "officer",
+              "assistant",
+              "teacher",
+              "city",
+              "dominion",
+              "indefinite"
+            ]
+          },
+          {
+            "lemmas": [
+              "draw",
+              "trunk",
+              "veil"
+            ],
+            "semes": [
+              "pull",
+              "drag",
+              "carry",
+              "covering",
+              "stem",
+              "head",
+              "receptacle",
+              "wear"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "dream",
+              "usher"
+            ],
+            "semes": [
+              "sleep",
+              "chamber",
+              "series",
+              "officer",
+              "assistant",
+              "teacher",
+              "city",
+              "indefinite"
+            ]
+          },
+          {
+            "lemmas": [
+              "dreariness",
+              "dreary",
+              "melancholy"
+            ],
+            "semes": [
+              "gloomy",
+              "dismal",
+              "sadness",
+              "dejection",
+              "bile",
+              "formerly",
+              "continuance",
+              "insanity"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "eye",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "light",
+              "glass",
+              "sash",
+              "transmit",
+              "admission",
+              "shut",
+              "air"
+            ]
+          },
+          {
+            "lemmas": [
+              "feature",
+              "trunk",
+              "veil"
+            ],
+            "semes": [
+              "face",
+              "stem",
+              "carry",
+              "head",
+              "wear",
+              "covering",
+              "main",
+              "full"
+            ]
+          },
+          {
+            "lemmas": [
+              "dream",
+              "first",
+              "heaven"
+            ],
+            "semes": [
+              "god",
+              "sleep",
+              "series",
+              "abode",
+              "precede",
+              "angel",
+              "wild",
+              "thefirstman"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "found",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "glass",
+              "axis",
+              "sash",
+              "rotation",
+              "admission",
+              "shut",
+              "air"
+            ]
+          },
+          {
+            "lemmas": [
+              "heart",
+              "sentiment",
+              "trunk"
+            ],
+            "semes": [
+              "blood",
+              "muscular",
+              "carry",
+              "stem",
+              "theheartof",
+              "organ",
+              "contraction",
+              "judgment"
+            ]
+          },
+          {
+            "lemmas": [
+              "imagination",
+              "mind",
+              "think"
+            ],
+            "semes": [
+              "power",
+              "problem",
+              "reason",
+              "idea",
+              "deal",
+              "capability",
+              "complex",
+              "oneself"
+            ]
+          },
+          {
+            "lemmas": [
+              "imagination",
+              "know",
+              "sense"
+            ],
+            "semes": [
+              "perceive",
+              "faculty",
+              "truth",
+              "external",
+              "deal",
+              "factuality",
+              "aware",
+              "power"
+            ]
+          },
+          {
+            "lemmas": [
+              "like",
+              "mind",
+              "think"
+            ],
+            "semes": [
+              "reason",
+              "feel",
+              "enjoy",
+              "favor",
+              "capability",
+              "complex",
+              "oneself",
+              "ithinkit"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "natural",
+              "spirit"
+            ],
+            "semes": [
+              "gradually",
+              "perfect",
+              "thedecayof",
+              "nature",
+              "strength",
+              "principle",
+              "old",
+              "age"
+            ]
+          },
+          {
+            "lemmas": [
+              "opium",
+              "trunk",
+              "veil"
+            ],
+            "semes": [
+              "poppy",
+              "head",
+              "stem",
+              "addictive",
+              "narcotic",
+              "papaver",
+              "somniferum",
+              "seed"
+            ]
+          },
+          {
+            "lemmas": [
+              "pervade",
+              "say",
+              "sentiment"
+            ],
+            "semes": [
+              "class",
+              "judgment",
+              "opinion",
+              "express",
+              "permeate",
+              "fluid",
+              "pore",
+              "declare"
+            ]
+          },
+          {
+            "lemmas": [
+              "image",
+              "sink",
+              "sublime"
+            ],
+            "semes": [
+              "solid",
+              "substance",
+              "liquid",
+              "container",
+              "gas",
+              "condense",
+              "change",
+              "representation"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "heart",
+              "tract"
+            ],
+            "semes": [
+              "organ",
+              "muscular",
+              "indefinite",
+              "blood",
+              "theheartof",
+              "city",
+              "contraction",
+              "body"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "simple"
+            ],
+            "semes": [
+              "else",
+              "lack",
+              "exclusive",
+              "anyone",
+              "separate",
+              "apply",
+              "nothing",
+              "anything"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "feeling"
+            ],
+            "semes": [
+              "taste",
+              "acrid",
+              "sharp",
+              "sensibility",
+              "basic",
+              "ale",
+              "coffee",
+              "dry"
+            ]
+          },
+          {
+            "lemmas": [
+              "bleak",
+              "dreary"
+            ],
+            "semes": [
+              "expose",
+              "cheerless",
+              "name",
+              "cold",
+              "barren",
+              "dismal",
+              "gloomy",
+              "nothing"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "hang"
+            ],
+            "semes": [
+              "suspend",
+              "collection",
+              "particle",
+              "visible",
+              "dust",
+              "fasten",
+              "vapor",
+              "smoke"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "soul"
+            ],
+            "semes": [
+              "transmit",
+              "light",
+              "spiritual",
+              "principle",
+              "essence",
+              "immaterial",
+              "actuate",
+              "render"
+            ]
+          },
+          {
+            "lemmas": [
+              "dropping",
+              "sink"
+            ],
+            "semes": [
+              "drop",
+              "submerge",
+              "fall",
+              "gravity",
+              "collapse",
+              "liquid",
+              "descend",
+              "substance"
+            ]
+          },
+          {
+            "lemmas": [
+              "earthly",
+              "image"
+            ],
+            "semes": [
+              "belonging",
+              "representation",
+              "world",
+              "copy",
+              "optical",
+              "characteristic",
+              "device",
+              "worship"
+            ]
+          },
+          {
+            "lemmas": [
+              "gloom",
+              "shade"
+            ],
+            "semes": [
+              "darkness",
+              "ray",
+              "obscurity",
+              "light",
+              "color",
+              "cloudiness",
+              "heaviness",
+              "sorrow"
+            ]
+          },
+          {
+            "lemmas": [
+              "hideous",
+              "terrible"
+            ],
+            "semes": [
+              "terror",
+              "offensive",
+              "shock",
+              "dreadful",
+              "morally",
+              "ugly",
+              "dread",
+              "adapt"
+            ]
+          },
+          {
+            "lemmas": [
+              "bleak",
+              "iciness"
+            ],
+            "semes": [
+              "cold",
+              "expose",
+              "name",
+              "coldness",
+              "icy",
+              "cheerless",
+              "barren",
+              "ice"
+            ]
+          },
+          {
+            "lemmas": [
+              "lapse",
+              "pause"
+            ],
+            "semes": [
+              "temporary",
+              "stop",
+              "cessation",
+              "verse",
+              "slip",
+              "inattention",
+              "slight",
+              "error"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "mere"
+            ],
+            "semes": [
+              "else",
+              "exclusive",
+              "anyone",
+              "separate",
+              "admixture",
+              "nothing",
+              "only",
+              "pure"
+            ]
+          },
+          {
+            "lemmas": [
+              "low",
+              "rank"
+            ],
+            "semes": [
+              "level",
+              "normal",
+              "elevation",
+              "strong",
+              "vigour",
+              "rapidity",
+              "gross",
+              "soldier"
+            ]
+          },
+          {
+            "lemmas": [
+              "scene",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "glass",
+              "sash",
+              "play",
+              "admission",
+              "shut",
+              "air",
+              "allow"
+            ]
+          },
+          {
+            "lemmas": [
+              "rank",
+              "sedge"
+            ],
+            "semes": [
+              "grass",
+              "growe",
+              "stem",
+              "plant",
+              "coarse",
+              "family",
+              "strong",
+              "vigour"
+            ]
+          },
+          {
+            "lemmas": [
+              "feature",
+              "sensation"
+            ],
+            "semes": [
+              "stimulation",
+              "face",
+              "perception",
+              "awareness",
+              "item",
+              "cast",
+              "interest",
+              "organ"
+            ]
+          },
+          {
+            "lemmas": [
+              "say",
+              "singularly"
+            ],
+            "semes": [
+              "singular",
+              "declare",
+              "instance",
+              "express",
+              "voice",
+              "word",
+              "degree",
+              "delete"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "stern"
+            ],
+            "semes": [
+              "taste",
+              "severe",
+              "acrid",
+              "harsh",
+              "severity",
+              "sharp",
+              "basic",
+              "ale"
+            ]
+          },
+          {
+            "lemmas": [
+              "spirit",
+              "torture"
+            ],
+            "semes": [
+              "pain",
+              "anguish",
+              "inflict",
+              "principle",
+              "vital",
+              "infliction",
+              "technique",
+              "confession"
+            ]
+          },
+          {
+            "lemmas": [
+              "sink",
+              "tree"
+            ],
+            "semes": [
+              "woody",
+              "branch",
+              "submerge",
+              "shrub",
+              "liquid",
+              "perennial",
+              "plant",
+              "stem"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "unnerved"
+            ],
+            "semes": [
+              "strength",
+              "gradually",
+              "deprive",
+              "perfect",
+              "thedecayof",
+              "courage",
+              "health",
+              "decline"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "utter"
+            ],
+            "semes": [
+              "absolute",
+              "dominion",
+              "territory",
+              "unconditional",
+              "utmost",
+              "set",
+              "total",
+              "value"
+            ]
+          },
+          {
+            "lemmas": [
+              "found",
+              "wall"
+            ],
+            "semes": [
+              "defense",
+              "security",
+              "raise",
+              "exterior",
+              "enclose",
+              "masonry",
+              "foundation",
+              "city"
+            ]
+          },
+          {
+            "lemmas": [
+              "like",
+              "white"
+            ],
+            "semes": [
+              "color",
+              "enjoy",
+              "favor",
+              "snow",
+              "pale",
+              "toward",
+              "feel",
+              "resemblance"
+            ]
+          },
+          {
+            "lemmas": [
+              "trunk",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "stem",
+              "carry",
+              "full",
+              "return",
+              "revolution",
+              "sun",
+              "suitcase"
+            ]
+          }
+        ],
+        "isolates": [
+          "aught",
+          "desolate",
+          "dull",
+          "glimpse",
+          "goad",
+          "horseback",
+          "insufferable",
+          "oppressively",
+          "pleasurable",
+          "poetic",
+          "properly",
+          "receive",
+          "reveller",
+          "sicken",
+          "soundless",
+          "unredeemed",
+          "unrelieved",
+          "vacant"
+        ]
+      },
+      {
+        "label": "WEAK",
+        "threshold": 5.0,
+        "clusters": [
+          {
+            "lemmas": [
+              "country",
+              "heaven",
+              "landscape",
+              "scene",
+              "tract",
+              "view"
+            ],
+            "semes": [
+              "god",
+              "scenery",
+              "indefinite",
+              "abode",
+              "region",
+              "territory",
+              "play",
+              "examine"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "day",
+              "depression",
+              "evening",
+              "low",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "season",
+              "sun",
+              "hour",
+              "night",
+              "level",
+              "september",
+              "axis"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "feeling",
+              "heart",
+              "imagination",
+              "life",
+              "natural"
+            ],
+            "semes": [
+              "organ",
+              "muscular",
+              "blood",
+              "gradually",
+              "body",
+              "sensibility",
+              "perfect",
+              "thedecayof"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "heart",
+              "life",
+              "sense",
+              "trunk"
+            ],
+            "semes": [
+              "organ",
+              "blood",
+              "muscular",
+              "carry",
+              "living",
+              "gradually",
+              "function",
+              "strength"
+            ]
+          },
+          {
+            "lemmas": [
+              "depression",
+              "draw",
+              "heart",
+              "life",
+              "trunk"
+            ],
+            "semes": [
+              "pull",
+              "organ",
+              "blood",
+              "force",
+              "carry",
+              "drag",
+              "muscular",
+              "hollow"
+            ]
+          },
+          {
+            "lemmas": [
+              "found",
+              "image",
+              "scene",
+              "wall",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "glass",
+              "defense",
+              "sash",
+              "play",
+              "contain",
+              "representation",
+              "security"
+            ]
+          },
+          {
+            "lemmas": [
+              "image",
+              "mind",
+              "sense",
+              "sentiment",
+              "soul"
+            ],
+            "semes": [
+              "reason",
+              "representation",
+              "faculty",
+              "rational",
+              "judgment",
+              "world",
+              "external",
+              "principle"
+            ]
+          },
+          {
+            "lemmas": [
+              "feeling",
+              "mind",
+              "sentiment",
+              "soul",
+              "think"
+            ],
+            "semes": [
+              "reason",
+              "judgment",
+              "sensibility",
+              "idea",
+              "opinion",
+              "rational",
+              "emotional",
+              "principle"
+            ]
+          },
+          {
+            "lemmas": [
+              "country",
+              "domain",
+              "life",
+              "pause",
+              "usher"
+            ],
+            "semes": [
+              "temporary",
+              "territory",
+              "stop",
+              "chamber",
+              "function",
+              "there",
+              "officer",
+              "alive"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "desolate",
+              "sedge",
+              "tree"
+            ],
+            "semes": [
+              "leave",
+              "stem",
+              "plant",
+              "woody",
+              "branch",
+              "season",
+              "perennial",
+              "september"
+            ]
+          },
+          {
+            "lemmas": [
+              "bitter",
+              "feeling",
+              "opium",
+              "sense"
+            ],
+            "semes": [
+              "taste",
+              "poppy",
+              "dry",
+              "acrid",
+              "external",
+              "addictive",
+              "narcotic",
+              "papaver"
+            ]
+          },
+          {
+            "lemmas": [
+              "bleak",
+              "dark",
+              "low",
+              "shade"
+            ],
+            "semes": [
+              "light",
+              "level",
+              "normal",
+              "expose",
+              "transmit",
+              "ray",
+              "name",
+              "elevation"
+            ]
+          },
+          {
+            "lemmas": [
+              "building",
+              "trunk",
+              "wall",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "defense",
+              "glass",
+              "sash",
+              "shop",
+              "stem",
+              "construct",
+              "security"
+            ]
+          },
+          {
+            "lemmas": [
+              "cloud",
+              "lapse",
+              "vacant",
+              "window"
+            ],
+            "semes": [
+              "air",
+              "open",
+              "collection",
+              "glass",
+              "particle",
+              "sash",
+              "visible",
+              "suspend"
+            ]
+          },
+          {
+            "lemmas": [
+              "compare",
+              "life",
+              "low",
+              "rank"
+            ],
+            "semes": [
+              "level",
+              "normal",
+              "growth",
+              "alive",
+              "metabolism",
+              "living",
+              "function",
+              "elevation"
+            ]
+          },
+          {
+            "lemmas": [
+              "contemplation",
+              "dream",
+              "life",
+              "soul"
+            ],
+            "semes": [
+              "sleep",
+              "principle",
+              "series",
+              "during",
+              "alive",
+              "metabolism",
+              "living",
+              "spiritual"
+            ]
+          },
+          {
+            "lemmas": [
+              "day",
+              "feature",
+              "trunk",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "full",
+              "axis",
+              "hour",
+              "revolution",
+              "sun",
+              "stem",
+              "rotation"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "dreariness",
+              "dreary",
+              "melancholy"
+            ],
+            "semes": [
+              "gloomy",
+              "transmit",
+              "light",
+              "reflect",
+              "dismal",
+              "sadness",
+              "dejection",
+              "bile"
+            ]
+          },
+          {
+            "lemmas": [
+              "dark",
+              "eye",
+              "white",
+              "window"
+            ],
+            "semes": [
+              "light",
+              "open",
+              "color",
+              "glass",
+              "sash",
+              "transmit",
+              "admission",
+              "shut"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "hideous",
+              "sense",
+              "view"
+            ],
+            "semes": [
+              "sight",
+              "offensive",
+              "shock",
+              "examine",
+              "organ",
+              "external",
+              "faculty",
+              "orbit"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "heaven",
+              "house",
+              "landscape"
+            ],
+            "semes": [
+              "god",
+              "abode",
+              "scenery",
+              "territory",
+              "picture",
+              "dominion",
+              "celestial",
+              "angel"
+            ]
+          },
+          {
+            "lemmas": [
+              "feature",
+              "life",
+              "like",
+              "soul"
+            ],
+            "semes": [
+              "principle",
+              "alive",
+              "metabolism",
+              "living",
+              "function",
+              "face",
+              "animate",
+              "item"
+            ]
+          },
+          {
+            "lemmas": [
+              "landscape",
+              "look",
+              "sentiment",
+              "view"
+            ],
+            "semes": [
+              "scenery",
+              "examine",
+              "direct",
+              "picture",
+              "aspect",
+              "art",
+              "judgment",
+              "attention"
+            ]
+          },
+          {
+            "lemmas": [
+              "pass",
+              "sentiment",
+              "trunk",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "sun",
+              "stem",
+              "past",
+              "step",
+              "carry",
+              "full",
+              "minute"
+            ]
+          },
+          {
+            "lemmas": [
+              "pervade",
+              "say",
+              "sentiment",
+              "singularly"
+            ],
+            "semes": [
+              "singular",
+              "class",
+              "express",
+              "judgment",
+              "opinion",
+              "permeate",
+              "fluid",
+              "pore"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "bleak",
+              "mere",
+              "simple"
+            ],
+            "semes": [
+              "nothing",
+              "else",
+              "expose",
+              "lack",
+              "name",
+              "cold",
+              "exclusive",
+              "anyone"
+            ]
+          },
+          {
+            "lemmas": [
+              "eye",
+              "say",
+              "sense",
+              "spirit"
+            ],
+            "semes": [
+              "sight",
+              "organ",
+              "nearly",
+              "expression",
+              "external",
+              "principle",
+              "faculty",
+              "orbit"
+            ]
+          },
+          {
+            "lemmas": [
+              "natural",
+              "opium",
+              "sedge",
+              "sublime"
+            ],
+            "semes": [
+              "solid",
+              "poppy",
+              "plant",
+              "grass",
+              "substance",
+              "container",
+              "gas",
+              "condense"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "landscape",
+              "opium"
+            ],
+            "semes": [
+              "scenery",
+              "poppy",
+              "territory",
+              "picture",
+              "addictive",
+              "narcotic",
+              "papaver",
+              "somniferum"
+            ]
+          },
+          {
+            "lemmas": [
+              "autumn",
+              "first",
+              "heaven"
+            ],
+            "semes": [
+              "god",
+              "season",
+              "abode",
+              "september",
+              "october",
+              "november",
+              "hemisphere",
+              "month"
+            ]
+          },
+          {
+            "lemmas": [
+              "gloom",
+              "landscape",
+              "melancholy"
+            ],
+            "semes": [
+              "scenery",
+              "partial",
+              "picture",
+              "gloomy",
+              "sadness",
+              "cloudiness",
+              "heaviness",
+              "sorrow"
+            ]
+          },
+          {
+            "lemmas": [
+              "feeling",
+              "goad",
+              "stern"
+            ],
+            "semes": [
+              "pointed",
+              "incite",
+              "severe",
+              "severity",
+              "sensibility",
+              "prod",
+              "urge",
+              "rouse"
+            ]
+          },
+          {
+            "lemmas": [
+              "hang",
+              "trunk",
+              "window"
+            ],
+            "semes": [
+              "open",
+              "suspend",
+              "glass",
+              "sash",
+              "allow",
+              "stem",
+              "fasten",
+              "admission"
+            ]
+          },
+          {
+            "lemmas": [
+              "feeling",
+              "iciness",
+              "soul"
+            ],
+            "semes": [
+              "cold",
+              "sensibility",
+              "emotional",
+              "principle",
+              "icy",
+              "essence",
+              "immaterial",
+              "actuate"
+            ]
+          },
+          {
+            "lemmas": [
+              "insufferable",
+              "sensation",
+              "torture"
+            ],
+            "semes": [
+              "pain",
+              "anguish",
+              "inflict",
+              "endure",
+              "intolerable",
+              "stimulation",
+              "extreme",
+              "perception"
+            ]
+          },
+          {
+            "lemmas": [
+              "domain",
+              "landscape",
+              "mere"
+            ],
+            "semes": [
+              "scenery",
+              "territory",
+              "picture",
+              "dominion",
+              "define",
+              "absolute",
+              "depict",
+              "admixture"
+            ]
+          },
+          {
+            "lemmas": [
+              "hang",
+              "life",
+              "pause"
+            ],
+            "semes": [
+              "suspend",
+              "temporary",
+              "stop",
+              "fasten",
+              "alive",
+              "metabolism",
+              "cessation",
+              "verse"
+            ]
+          },
+          {
+            "lemmas": [
+              "opium",
+              "trunk",
+              "veil"
+            ],
+            "semes": [
+              "poppy",
+              "head",
+              "stem",
+              "addictive",
+              "narcotic",
+              "papaver",
+              "somniferum",
+              "seed"
+            ]
+          },
+          {
+            "lemmas": [
+              "alone",
+              "opium"
+            ],
+            "semes": [
+              "poppy",
+              "addictive",
+              "narcotic",
+              "papaver",
+              "somniferum",
+              "seed",
+              "capsule",
+              "dry"
+            ]
+          },
+          {
+            "lemmas": [
+              "dropping",
+              "sink"
+            ],
+            "semes": [
+              "drop",
+              "submerge",
+              "fall",
+              "gravity",
+              "collapse",
+              "liquid",
+              "descend",
+              "substance"
+            ]
+          },
+          {
+            "lemmas": [
+              "dull",
+              "opium"
+            ],
+            "semes": [
+              "poppy",
+              "addictive",
+              "narcotic",
+              "papaver",
+              "somniferum",
+              "seed",
+              "capsule",
+              "dry"
+            ]
+          },
+          {
+            "lemmas": [
+              "earthly",
+              "poetic"
+            ],
+            "semes": [
+              "poetry",
+              "belonging",
+              "characteristic",
+              "poet",
+              "poetical",
+              "romantic",
+              "world",
+              "oppose"
+            ]
+          },
+          {
+            "lemmas": [
+              "feeling",
+              "glimpse"
+            ],
+            "semes": [
+              "briefly",
+              "incompletely",
+              "sensibility",
+              "tangible",
+              "emotional",
+              "idea",
+              "brief",
+              "evince"
+            ]
+          },
+          {
+            "lemmas": [
+              "horseback",
+              "length"
+            ],
+            "semes": [
+              "horse",
+              "end",
+              "back",
+              "line",
+              "ridge",
+              "thelengthof",
+              "space",
+              "between"
+            ]
+          },
+          {
+            "lemmas": [
+              "compare",
+              "know"
+            ],
+            "semes": [
+              "relation",
+              "truth",
+              "examine",
+              "fact",
+              "difference",
+              "comparison",
+              "discover",
+              "factuality"
+            ]
+          },
+          {
+            "lemmas": [
+              "melancholy",
+              "oppressively"
+            ],
+            "semes": [
+              "gloomy",
+              "sadness",
+              "depress",
+              "bile",
+              "formerly",
+              "continuance",
+              "insanity",
+              "oppressive"
+            ]
+          },
+          {
+            "lemmas": [
+              "like",
+              "pleasurable"
+            ],
+            "semes": [
+              "pleasure",
+              "enjoy",
+              "favor",
+              "please",
+              "toward",
+              "afford",
+              "feel",
+              "prefer"
+            ]
+          },
+          {
+            "lemmas": [
+              "properly",
+              "year"
+            ],
+            "semes": [
+              "period",
+              "return",
+              "revolution",
+              "proper",
+              "sun",
+              "suitably",
+              "ecliptic",
+              "calendar"
+            ]
+          },
+          {
+            "lemmas": [
+              "receive",
+              "trunk"
+            ],
+            "semes": [
+              "stem",
+              "carry",
+              "possession",
+              "suitcase",
+              "chest",
+              "lid",
+              "handle",
+              "offer"
+            ]
+          },
+          {
+            "lemmas": [
+              "soundless",
+              "utter"
+            ],
+            "semes": [
+              "sound",
+              "fathom",
+              "unconditional",
+              "utmost",
+              "total",
+              "absolute",
+              "extreme",
+              "unfathomable"
+            ]
+          },
+          {
+            "lemmas": [
+              "feeling",
+              "terrible"
+            ],
+            "semes": [
+              "terror",
+              "sensibility",
+              "dread",
+              "adapt",
+              "dreadful",
+              "fear",
+              "emotional",
+              "idea"
+            ]
+          },
+          {
+            "lemmas": [
+              "decay",
+              "unnerved"
+            ],
+            "semes": [
+              "strength",
+              "gradually",
+              "deprive",
+              "perfect",
+              "thedecayof",
+              "courage",
+              "health",
+              "decline"
+            ]
+          },
+          {
+            "lemmas": [
+              "hang",
+              "unrelieved"
+            ],
+            "semes": [
+              "suspend",
+              "fasten",
+              "relief",
+              "furnish",
+              "deliver",
+              "given",
+              "incline",
+              "instead"
+            ]
+          }
+        ],
+        "isolates": [
+          "aught",
+          "reveller",
+          "sicken",
+          "unredeemed"
+        ]
+      }
+    ]
+  }
+]

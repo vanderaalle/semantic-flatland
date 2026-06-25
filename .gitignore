@@ -2,8 +2,12 @@ __pycache__/
 *.pyc
 *.pyo
 
-# local data, docs, dev scratch — not for the repo
-data/
+# raw lexical resources and corpus — keep locally, not for the repo
+data/corpus/
+data/wn3.1.dict/
+data/*_definitions_*.json
+
+# docs and dev scratch
 doc/
 dev_old/
 
