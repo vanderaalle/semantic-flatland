@@ -3,7 +3,8 @@ __pycache__/
 *.pyo
 
 # raw lexical resources and corpus — keep locally, not for the repo
-data/corpus/
+data/corpus/*.epub
+data/corpus/*.json
 data/wn3.1.dict/
 data/*_definitions_*.json
 
