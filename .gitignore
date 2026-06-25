@@ -2,7 +2,10 @@ __pycache__/
 *.pyc
 *.pyo
 
-# copyrighted source texts — keep locally, never push
-data/corpus/*.epub
-data/corpus/*.txt
-data/corpus/*.json
+# local data, docs, dev scratch — not for the repo
+data/
+doc/
+dev_old/
+
+# Claude Code internals
+.claude/
